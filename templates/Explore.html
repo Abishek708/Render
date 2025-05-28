@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroVision</title>
+    <style>
+        * {
+          margin: 0;
+          padding-top: 20px;
+          box-sizing: border-box;
+        }
+    
+        body {
+          font-family: Arial, sans-serif;
+          background-image: url('static/css/CTA-bg.jpeg');
+          background-size: cover;
+          background-position: center;
+          height: 100vh;
+          color: #333;
+        }
+    
+        .navbar {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 0;
+          margin-top:20px;
+          margin-left:40px;
+          margin-right:40px;
+          background-color: rgba(255, 255, 255, 0.8);
+          border-radius:20px;
+        }
+    
+        .logo {
+          color: #ff7fa7;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-weight: bold;
+          font-size: 18px;
+          padding-left:10px;
+
+        }
+    
+        ul {
+          display: flex;
+          gap: 30px;
+          list-style: none;
+          padding-right:20px;
+          padding-bottom:20px;
+        }
+    
+        ul li a {
+          text-decoration: none;
+          color: #ff7fa7;
+          font-weight: bold;
+          font-size: 16px;
+          transition: color 0.3s;
+         
+        }
+    
+        ul li a:hover {
+          color: #ff4081;
+        }
+    
+        .main {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          height: calc(100vh - 80px);
+          text-align: center;
+          padding: 0 20px;
+        }
+    
+        .main p {
+          font-size: 28px;
+          color: #333;
+          margin-bottom: 30px;
+          font-family: Arial, sans-serif
+          text-shadow: 1px 1px 2px white;
+        }
+    
+        .plant, .crop, .Growth {
+            background-color: white;
+            margin: 15px auto;
+            width: 300px;
+            padding: 15px 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            text-align: left; /* Ensure text aligns properly */
+            gap: 15px;
+            transition: transform 0.2s;
+          }
+          
+          .plant:hover, .crop:hover, .Growth:hover {
+            transform: scale(1.03);
+          }
+          
+          .img2, .img1 {
+            border-radius: 50%;
+            margin-right: 15px;
+            width: 50px;
+            height: 50px;
+            left:-30px;
+            object-fit: cover;
+            flex-shrink: 0;
+            border:2px solid red;
+          }
+          
+          .plant a, .crop a, .Growth a {
+            text-decoration: none;
+            color: #ff4c8b;
+            font-weight: bold;
+            font-size: 16px;
+          }
+          
+    </style>
+    </head>
+    <body>
+        <div class="navbar">
+            <div class="logo">🌿 PLANTPULSE</div>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+                <li><a href="about.html">ABOUT US</a></li>
+            </ul>
+        </div>
+    <div class='main'>
+        <p class="Exp">Select Your Category to Diagnose Plant Health</p>
+        
+        <div class="plant">
+            <img class="img1"src="{{ url_for('static', filename='css/plant.jpg') }}" alt="Example Image" width="50px" height="50px" />
+            <a  href="Plant.html">Detect Disease in Plants</a>
+        </div>
+        <div class="Growth">
+            <img class="img2"src="{{ url_for('static', filename='css/crop.jpeg') }}" alt="Example Image" width="50px" height="50px" />
+            <a  href="growth.html">Plant Growth Tracker</a>
+        </div>
+    </div>
+
+</body>
+</html>

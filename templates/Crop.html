@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="static\css\style.css">
+</head>
+<body>
+    <div class="logo">
+        <h1>PlantPulse</h1>
+    </div>
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+            <li><a href="about.html">ABOUT US</a></li>
+        </ul>
+   <div>
+    <div>
+        <p class="ppl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis recusandae ipsam consectetur. Quasi perspiciatis id delectus eum vel cupiditate doloribus voluptatum magni, omnis eveniet nam dolorum, velit non voluptas harum? Maxime eveniet ut temporibus voluptas quibusdam, quidem optio quos aliquid.</p>
+        <form class="choose" action="/", method="post" enctype="multipart/form-data">
+            <input class="form-control" type="file" name="imagefile">
+            <input class="btn btn-primary mt-3" type="submit" value="predict image">
+
+        </form>
+        {% if prediction %}
+            <p class="choose"> Prediction is a {{prediction}}</p>
+        {% endif %}
+    </div>

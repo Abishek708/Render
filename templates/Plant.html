@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrovision</title>
+    <style>
+        * {
+          margin: 0;
+          padding-top: 10px;
+          box-sizing: border-box;
+        }
+    
+        body {
+          font-family: Arial, sans-serif;
+          background-image: url('static/css/CTA-bg.jpeg');
+          background-size: cover;
+          background-position: center;
+          height: 100vh;
+          color: #333;
+        }
+    
+        .navbar {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 10px;
+          margin-left:40px;
+          margin-right:40px;
+          margin-top:10px;
+          background-color: rgba(255, 255, 255, 0.8);
+          border-radius:20px;
+        }
+    
+        .logo {
+          color: #ff7fa7;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-weight: bold;
+          font-size: 18px;
+          padding-left:10px;
+          padding-bottom:10px;
+        }
+    
+        ul {
+          display: flex;
+          gap: 30px;
+          list-style: none;
+        
+        }
+    
+        ul li a {
+          text-decoration: none;
+          color: #ff7fa7;
+          font-weight: bold;
+          font-size: 16px;
+          transition: color 0.3s;
+        }
+    
+        ul li a:hover {
+          color: #ff4081;
+        }
+    
+        .main {
+          max-width: 800px;
+          margin: 20px auto;
+          padding: 30px 40px;
+          text-align: center;
+          font-family: 'Segoe UI', sans-serif;
+        }
+        
+        .main p {
+          font-size: 16px;
+          color: #333;
+          margin-bottom: 20px;
+          line-height: 1.5;
+        }
+        
+        .choose {
+          margin-top: 20px;
+        }
+        
+        .choose input[type="file"] {
+          display: block;
+          margin: 0 auto 20px auto;
+          padding: 10px;
+          font-size: 14px;
+          border-radius: 8px;
+          border: 1px solid #ff4c4c;
+        }
+        
+        .btn {
+          background-color: #ff4c8b;
+          color: white;
+          padding: 10px 20px;
+          font-weight: bold;
+          border: none;
+          border-radius: 8px;
+          cursor: pointer;
+          text-decoration: none;
+          transition: background-color 0.3s;
+        }
+        
+        .btn:hover {
+          background-color: #e03a72;
+        }
+        
+        .btn a {
+          color: white;
+          text-decoration: none;
+        }
+        
+        .choose p {
+          font-size: 18px;
+          font-weight: bold;
+          color: #333;
+          margin: 20px 0;
+        }
+      </style>
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">🌿 PLANTPULSE</div>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+        
+          <li><a href="contact.html">CONTACT</a></li>
+          <li><a href="about.html">ABOUT US</a></li>
+        </ul>
+    </div>
+    <div class='main'>
+        <p>Upload an image of your plant image to detect possible diseases using our AI-powered system.<br> 
+          Make sure the leaf is clearly visible and well-lit for the best results.<br>
+          Our tool will analyze the image and provide you with the most likely diagnosis, helping you take timely action to protect your crops.
+      </p></p>
+        <form class="choose" action="/", method="post" enctype="multipart/form-data">
+            <input class="form-control" type="file" name="imagefile">
+            <input class="btn btn-primary mt-3" type="submit" value="predict image">
+
+        </form>
+        {% if prediction %}
+            <p class="choose"> Prediction is a {{prediction}}</p>
+            <button class="btn"><a href="describe.html"> Describe..!</a></button>
+        {% endif %}
+    </div>
+
+</body>
+</html>

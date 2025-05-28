@@ -1,0 +1,2724 @@
+{ 
+
+"wheat_brown_rust": {
+      "mild": {
+        "organic": "Spray neem oil or biofungicides like Trichoderma.",
+        "chemical": "Apply early fungicides such as propiconazole.",
+        "prevention": "Use resistant wheat varieties and rotate crops."
+      },
+      "moderate": {
+        "organic": "Increase biofungicide applications.",
+        "chemical": "Spray systemic fungicides at disease onset.",
+        "prevention": "Remove infected crop residues and sanitize tools."
+      },
+      "severe": {
+        "organic": "Destroy infected plants to limit spread.",
+        "chemical": "Apply strong fungicides aggressively.",
+        "prevention": "Practice strict crop rotation and field sanitation."
+      }
+    },
+    "wheat_healthy": {
+      "mild": {
+        "organic": "Maintain soil fertility with compost and organic matter.",
+        "chemical": "Avoid unnecessary chemical usage.",
+        "prevention": "Practice crop rotation and monitor field regularly."
+      },
+      "moderate": {
+        "organic": "Use biofertilizers to improve plant health.",
+        "chemical": "Apply protective fungicides preventively if needed.",
+        "prevention": "Ensure adequate irrigation and sunlight."
+      },
+      "severe": {
+        "organic": "Enhance soil health with organic amendments.",
+        "chemical": "Consult agronomist for targeted treatments.",
+        "prevention": "Keep field clean and remove debris."
+      }
+    },
+
+    "yellow_rust_sugarcane": {
+      "mild": {
+        "organic": "Spray neem oil or biofungicides.",
+        "chemical": "Apply protective fungicides early.",
+        "prevention": "Plant resistant sugarcane varieties."
+      },
+      "moderate": {
+        "organic": "Increase biofungicide applications.",
+        "chemical": "Use systemic fungicides regularly.",
+        "prevention": "Remove infected crop residues."
+      },
+      "severe": {
+        "organic": "Destroy infected plants and soil amendments.",
+        "chemical": "Apply strong fungicides aggressively.",
+        "prevention": "Maintain field sanitation and rotate crops."
+      }
+    },
+    "bacterial_blight_in_cotton": {
+      "mild": {
+        "organic": "Use copper-based organic sprays and neem extracts.",
+        "chemical": "Apply copper fungicides preventively.",
+        "prevention": "Ensure good field drainage and remove infected debris."
+      },
+      "moderate": {
+        "organic": "Increase organic sprays frequency.",
+        "chemical": "Use systemic bactericides like streptomycin.",
+        "prevention": "Avoid overhead irrigation and maintain field hygiene."
+      },
+      "severe": {
+        "organic": "Remove severely infected plants.",
+        "chemical": "Apply strong chemical bactericides.",
+        "prevention": "Practice crop rotation and sanitize tools regularly."
+      }
+    },
+   "tungro": {
+    "mild": {
+      "organic": "Use neem-based insecticides to control vector (green leafhopper).",
+      "chemical": "Apply systemic insecticides like imidacloprid.",
+      "prevention": "Use resistant rice varieties and seed treatments."
+    },
+    "moderate": {
+      "organic": "Introduce natural predators of leafhopper.",
+      "chemical": "Spray insecticides regularly on affected fields.",
+      "prevention": "Avoid early planting and keep fields weed-free."
+    },
+    "severe": {
+      "organic": "Destroy infected plants to prevent spread.",
+      "chemical": "Use strong insecticides and monitor vector populations closely.",
+      "prevention": "Rotate crops and sanitize tools and equipment."
+    }
+  },
+  "sugarcane_red_rot": {
+    "mild": {
+      "organic": "Apply Trichoderma viride to soil and seed setts before planting.",
+      "chemical": "Use fungicides like carbendazim on affected stalks.",
+      "prevention": "Use disease-free setts and avoid ratooning in infected fields."
+    },
+    "moderate": {
+      "organic": "Repeat Trichoderma treatment and improve drainage.",
+      "chemical": "Apply benomyl or systemic fungicides to infected areas.",
+      "prevention": "Adopt crop rotation and burn infected residues."
+    },
+    "severe": {
+      "organic": "Remove and destroy all infected canes from the field.",
+      "chemical": "Aggressive fungicide drenching in affected zones.",
+      "prevention": "Plant resistant varieties and follow sanitation protocols."
+    }
+  },
+  "tomato___bacterial_spot": {
+    "mild": {
+      "organic": "Apply copper-based sprays or neem extract weekly.",
+      "chemical": "Use fixed copper fungicides like copper hydroxide.",
+      "prevention": "Avoid overhead watering and ensure proper spacing."
+    },
+    "moderate": {
+      "organic": "Spray compost tea or garlic-chili extract biweekly.",
+      "chemical": "Apply copper + mancozeb mix for enhanced protection.",
+      "prevention": "Remove affected leaves and disinfect pruning tools."
+    },
+    "severe": {
+      "organic": "Cut and destroy infected plants and increase organic sprays.",
+      "chemical": "Use streptomycin or oxytetracycline bactericides.",
+      "prevention": "Avoid working in wet fields and rotate crops regularly."
+    }
+  },"grape___esca_black_measles": {
+    "mild": {
+      "organic": "Apply compost tea and prune symptomatic shoots.",
+      "chemical": "Use sodium arsenite cautiously where permitted.",
+      "prevention": "Ensure balanced fertilization and avoid wounding."
+    },
+    "moderate": {
+      "organic": "Trim canes and apply organic fungicides.",
+      "chemical": "Apply systemic fungicides like tebuconazole.",
+      "prevention": "Sanitize tools and avoid trunk injuries."
+    },
+    "severe": {
+      "organic": "Remove entire vine if disease spreads extensively.",
+      "chemical": "No curative chemical treatment; manage with pruning.",
+      "prevention": "Use certified planting material and prevent stress."
+    }
+  },
+  "grape___leaf_blight_isariopsis_leaf_spot": {
+    "mild": {
+      "organic": "Spray neem extract or potassium bicarbonate.",
+      "chemical": "Apply protective fungicides like mancozeb.",
+      "prevention": "Provide proper air circulation and avoid dense planting."
+    },
+    "moderate": {
+      "organic": "Repeat neem sprays and prune infected foliage.",
+      "chemical": "Use systemic fungicides such as thiophanate-methyl.",
+      "prevention": "Manage canopy and ensure field hygiene."
+    },
+    "severe": {
+      "organic": "Heavily prune and increase organic fungicidal sprays.",
+      "chemical": "Apply systemic fungicides at full recommended dosage.",
+      "prevention": "Implement strict pruning and residue management."
+    }
+  },
+  "tomato___early_blight": {
+    "mild": {
+      "organic": "Use neem oil or baking soda sprays weekly.",
+      "chemical": "Apply mancozeb or chlorothalonil on early signs.",
+      "prevention": "Water at soil level and avoid splashing."
+    },
+    "moderate": {
+      "organic": "Apply compost tea and prune affected leaves.",
+      "chemical": "Spray systemic fungicides like azoxystrobin.",
+      "prevention": "Maintain plant spacing and rotate crops."
+    },
+    "severe": {
+      "organic": "Cut and dispose of heavily infected parts immediately.",
+      "chemical": "Apply strong fungicides like difenoconazole.",
+      "prevention": "Use disease-free seeds and mulch the soil."
+    }
+  },
+  "tomato___late_blight": {
+    "mild": {
+      "organic": "Apply copper fungicides or horsetail extract.",
+      "chemical": "Use chlorothalonil or mancozeb at early signs.",
+      "prevention": "Avoid overhead irrigation and ensure airflow."
+    },
+    "moderate": {
+      "organic": "Increase frequency of copper or garlic-based sprays.",
+      "chemical": "Use metalaxyl or cymoxanil-based systemic fungicides.",
+      "prevention": "Remove infected leaves and ensure dry foliage."
+    },
+    "severe": {
+      "organic": "Destroy infected plants; increase biofungicide application.",
+      "chemical": "Apply high-strength systemic fungicides aggressively.",
+      "prevention": "Rotate crops and avoid tomato/potato for 2 years."
+    }
+  },
+  "tomato___leaf_mold": {
+    "mild": {
+      "organic": "Spray potassium bicarbonate or milk solution weekly.",
+      "chemical": "Use copper-based fungicides as a preventive measure.",
+      "prevention": "Provide good air circulation and avoid humidity buildup."
+    },
+    "moderate": {
+      "organic": "Apply sulfur dust or garlic sprays frequently.",
+      "chemical": "Use fungicides like mancozeb or chlorothalonil.",
+      "prevention": "Space plants properly and ventilate greenhouses."
+    },
+    "severe": {
+      "organic": "Remove and destroy severely affected leaves.",
+      "chemical": "Use systemic fungicides like difenoconazole.",
+      "prevention": "Avoid wet foliage and sanitize the growing area."
+    }
+  },
+  "tomato___septoria_leaf_spot": {
+    "mild": {
+      "organic": "Apply compost tea or neem oil weekly.",
+      "chemical": "Use chlorothalonil or copper-based fungicides.",
+      "prevention": "Remove lower leaves and avoid overhead watering."
+    },
+    "moderate": {
+      "organic": "Use garlic extract and increase airflow.",
+      "chemical": "Apply systemic fungicides like azoxystrobin.",
+      "prevention": "Avoid dense planting and rotate crops annually."
+    },
+    "severe": {
+      "organic": "Remove infected leaves and apply fungicides heavily.",
+      "chemical": "Use strong protectant fungicides every 5–7 days.",
+      "prevention": "Mulch to prevent soil splash and sanitize tools."
+    }
+  },
+  "tomato___spider_mites_two_spotted_spider_mite": {
+    "mild": {
+      "organic": "Spray neem oil or insecticidal soap to dislodge mites.",
+      "chemical": "Use miticides like abamectin at low concentrations.",
+      "prevention": "Maintain high humidity and wash undersides of leaves."
+    },
+    "moderate": {
+      "organic": "Apply sulfur sprays or horticultural oils biweekly.",
+      "chemical": "Use strong miticides like bifenthrin or spiromesifen.",
+      "prevention": "Avoid drought stress and inspect regularly."
+    },
+    "severe": {
+      "organic": "Remove infested parts and increase organic spray frequency.",
+      "chemical": "Apply systemic miticides aggressively.",
+      "prevention": "Do not reuse infested soil and keep area clean."
+    }
+  },
+  "tomato___target_spot": {
+    "mild": {
+      "organic": "Spray compost tea and use neem oil.",
+      "chemical": "Apply chlorothalonil or copper hydroxide fungicides.",
+      "prevention": "Remove debris and use well-drained soil."
+    },
+    "moderate": {
+      "organic": "Use sulfur dust or baking soda spray on affected areas.",
+      "chemical": "Use azoxystrobin or difenoconazole fungicides.",
+      "prevention": "Ensure proper spacing and airflow."
+    },
+    "severe": {
+      "organic": "Cut off infected leaves and spray biofungicides often.",
+      "chemical": "Apply strong fungicide every 5 days during outbreaks.",
+      "prevention": "Avoid planting in the same spot each season."
+    }
+  },
+  "tomato___tomato_yellow_leaf_curl_virus": {
+    "mild": {
+      "organic": "Spray neem oil to deter whiteflies (vectors).",
+      "chemical": "Apply imidacloprid to control vector population.",
+      "prevention": "Use resistant varieties and cover young plants with netting."
+    },
+    "moderate": {
+      "organic": "Introduce natural predators like ladybugs.",
+      "chemical": "Spray systemic insecticides targeting whiteflies.",
+      "prevention": "Remove infected plants and use reflective mulch."
+    },
+    "severe": {
+      "organic": "Rogue and destroy infected plants to reduce virus spread.",
+      "chemical": "Apply systemic insecticides aggressively to eliminate vectors.",
+      "prevention": "Avoid overlapping tomato crops and use virus-free seeds."
+    }
+  },
+  "tomato___tomato_mosaic_virus": {
+    "mild": {
+      "organic": "Apply seaweed extract and ensure plant vigor.",
+      "chemical": "No direct antiviral chemicals available.",
+      "prevention": "Avoid touching healthy plants after infected ones."
+    },
+    "moderate": {
+      "organic": "Use milk sprays to reduce virus load.",
+      "chemical": "Eliminate vector insects using insecticides.",
+      "prevention": "Sanitize hands and tools; avoid tobacco use near plants."
+    },
+    "severe": {
+      "organic": "Uproot and destroy infected plants immediately.",
+      "chemical": "Control vector insects aggressively.",
+      "prevention": "Use certified virus-free seeds and rotate crops yearly."
+    }
+  },
+  "sawfly": {
+    "mild": {
+      "organic": "Handpick larvae and spray neem oil to deter feeding.",
+      "chemical": "Apply insecticidal soap or spinosad for early infestations.",
+      "prevention": "Monitor leaves regularly and attract natural predators like birds."
+    },
+    "moderate": {
+      "organic": "Use botanical insecticides such as pyrethrin and introduce parasitic wasps.",
+      "chemical": "Spray contact insecticides like malathion or carbaryl.",
+      "prevention": "Prune affected branches and avoid overcrowding."
+    },
+    "severe": {
+      "organic": "Apply strong neem or garlic sprays multiple times.",
+      "chemical": "Use systemic insecticides for deep penetration.",
+      "prevention": "Clear plant debris and rotate host crops seasonally."
+    }
+  },
+  "soybean___healthy": {
+    "mild": {
+      "organic": "Maintain with compost and balanced irrigation.",
+      "chemical": "No treatment required.",
+      "prevention": "Scout fields weekly and use certified seeds."
+    },
+    "moderate": {
+      "organic": "Supplement with fish emulsion or vermiwash.",
+      "chemical": "No chemical needed unless symptoms arise.",
+      "prevention": "Ensure proper plant spacing and avoid waterlogging."
+    },
+    "severe": {
+      "organic": "Healthy crop; no action needed unless pests appear.",
+      "chemical": "Avoid prophylactic chemical usage.",
+      "prevention": "Adopt good agronomic practices and rotate crops."
+    }
+  },
+  "squash___powdery_mildew": {
+    "mild": {
+      "organic": "Apply baking soda spray or neem oil weekly.",
+      "chemical": "Use sulfur-based fungicides early on.",
+      "prevention": "Ensure good air circulation and avoid overhead watering."
+    },
+    "moderate": {
+      "organic": "Use potassium bicarbonate or milk sprays every 5 days.",
+      "chemical": "Spray systemic fungicides like myclobutanil.",
+      "prevention": "Remove affected leaves and maintain plant spacing."
+    },
+    "severe": {
+      "organic": "Prune heavily infected parts and increase frequency of sprays.",
+      "chemical": "Aggressive fungicide application on entire plant.",
+      "prevention": "Plant resistant varieties and sanitize tools after use."
+    }
+  },
+  "stem_borer": {
+    "mild": {
+      "organic": "Apply neem cake in soil and neem oil on stems.",
+      "chemical": "Use quinalphos or chlorpyrifos in early larval stages.",
+      "prevention": "Monitor stem holes and plug entry points with mud."
+    },
+    "moderate": {
+      "organic": "Inject neem-based formulations into borer holes.",
+      "chemical": "Spray systemic insecticides like profenofos.",
+      "prevention": "Destroy infested stems and crop residues after harvest."
+    },
+    "severe": {
+      "organic": "Cut and burn infected stems immediately.",
+      "chemical": "Use high-dose systemic insecticides via injection.",
+      "prevention": "Avoid planting same host crop repeatedly in the same field."
+    }
+  },
+  "strawberry___leaf_scorch": {
+    "mild": {
+      "organic": "Use compost tea and prune infected leaves.",
+      "chemical": "Spray copper-based fungicides preventively.",
+      "prevention": "Water at soil level and ensure proper drainage."
+    },
+    "moderate": {
+      "organic": "Apply garlic extract and increase potassium-rich feeds.",
+      "chemical": "Use chlorothalonil or mancozeb sprays.",
+      "prevention": "Avoid overhead watering and crowding."
+    },
+    "severe": {
+      "organic": "Remove and destroy infected plants.",
+      "chemical": "Systemic fungicides may be required repeatedly.",
+      "prevention": "Rotate with non-host crops and sanitize tools."
+    }
+  },
+  "strawberry___healthy": {
+    "mild": {
+      "organic": "Apply compost and maintain soil pH at 5.5–6.5.",
+      "chemical": "No treatment required.",
+      "prevention": "Keep the area free of weeds and pests."
+    },
+    "moderate": {
+      "organic": "Fertilize with natural tonics like fish emulsion.",
+      "chemical": "Avoid chemicals unless disease symptoms appear.",
+      "prevention": "Mulch to prevent soil-borne pathogens."
+    },
+    "severe": {
+      "organic": "Healthy; no action unless pests or disease arise.",
+      "chemical": "No intervention required.",
+      "prevention": "Use disease-resistant varieties and rotate crops."
+    }
+  },
+  "stripecanker": {
+    "mild": {
+      "organic": "Apply copper soap or neem oil on early lesions.",
+      "chemical": "Spray copper oxychloride at 10-day intervals.",
+      "prevention": "Avoid injuries to bark and maintain airflow."
+    },
+    "moderate": {
+      "organic": "Use Trichoderma-based paste on infected bark.",
+      "chemical": "Use systemic fungicides like thiophanate-methyl.",
+      "prevention": "Trim lower branches and disinfect tools."
+    },
+    "severe": {
+      "organic": "Remove affected bark and treat with biofungicide paste.",
+      "chemical": "Inject systemic fungicide near canker zone.",
+      "prevention": "Avoid excess nitrogen and irrigate appropriately."
+    }
+  },
+  "sugarcane_bacterial_blight": {
+    "mild": {
+      "organic": "Apply bioagents like Pseudomonas fluorescens in the soil.",
+      "chemical": "Spray streptocycline (100 ppm) on foliage.",
+      "prevention": "Use disease-free setts and maintain field hygiene."
+    },
+    "moderate": {
+      "organic": "Repeat application of biocontrol agents.",
+      "chemical": "Use copper-based bactericides along with antibiotics.",
+      "prevention": "Remove infected plants and control vectors."
+    },
+    "severe": {
+      "organic": "Destroy infected canes and apply cow dung slurry with Trichoderma.",
+      "chemical": "High-concentration antibiotic and copper spray cycles.",
+      "prevention": "Avoid ratooning and use hot water treatment for setts."
+    }
+  },
+  "sugarcane_healthy": {
+    "mild": {
+      "organic": "Maintain with organic mulches and adequate irrigation.",
+      "chemical": "No need for chemical treatments.",
+      "prevention": "Monitor crop regularly and apply IPM."
+    },
+    "moderate": {
+      "organic": "Apply liquid biofertilizers like Azospirillum.",
+      "chemical": "No chemical application required unless disease detected.",
+      "prevention": "Avoid mechanical injuries and follow field sanitation."
+    },
+    "severe": {
+      "organic": "Healthy crop; no curative action needed.",
+      "chemical": "Avoid unnecessary chemical exposure.",
+      "prevention": "Ensure weed control and pest monitoring weekly."
+    }
+  },
+  "raspberry___healthy": {
+    "mild": {
+      "organic": "Mulch with compost and water adequately.",
+      "chemical": "No chemical input necessary.",
+      "prevention": "Keep area weed-free and check leaves regularly."
+    },
+    "moderate": {
+      "organic": "Boost nutrients with natural fertilizers.",
+      "chemical": "No intervention needed unless signs appear.",
+      "prevention": "Prune for air circulation and prevent fungal growth."
+    },
+    "severe": {
+      "organic": "Healthy raspberry; maintain organic practices.",
+      "chemical": "Chemical use not recommended on healthy plants.",
+      "prevention": "Use disease-free planting material and rotate crops."
+    }
+  },
+  "redrot_sugarcane": {
+    "mild": {
+      "organic": "Apply Trichoderma-based biocontrol agents to suppress fungus.",
+      "chemical": "Use fungicides like carbendazim at early stages.",
+      "prevention": "Plant resistant varieties and avoid waterlogging."
+    },
+    "moderate": {
+      "organic": "Use neem cake and improve soil drainage.",
+      "chemical": "Spray systemic fungicides at regular intervals.",
+      "prevention": "Avoid ratooning affected crops and remove stubble."
+    },
+    "severe": {
+      "organic": "Remove and destroy infected canes.",
+      "chemical": "Apply soil drenches of recommended fungicides.",
+      "prevention": "Adopt crop rotation and use hot water treatment for setts."
+    }
+  },
+  "redrust_sugarcane": {
+    "mild": {
+      "organic": "Foliar spray with neem oil and potassium bicarbonate.",
+      "chemical": "Use copper oxychloride or mancozeb spray.",
+      "prevention": "Maintain field hygiene and avoid overhead irrigation."
+    },
+    "moderate": {
+      "organic": "Increase frequency of biocontrol sprays.",
+      "chemical": "Apply systemic fungicides like propiconazole.",
+      "prevention": "Ensure proper plant spacing and remove infected leaves."
+    },
+    "severe": {
+      "organic": "Prune affected parts and apply organic fungicides.",
+      "chemical": "Aggressive fungicide spraying may be needed.",
+      "prevention": "Sanitize tools and avoid ratoon cropping in infected fields."
+    }
+  },
+  "rice_blast": {
+    "mild": {
+      "organic": "Apply neem oil and maintain field drainage.",
+      "chemical": "Spray tricyclazole or isoprothiolane at early stages.",
+      "prevention": "Avoid excess nitrogen and use resistant varieties."
+    },
+    "moderate": {
+      "organic": "Repeat neem-based sprays and foliar compost teas.",
+      "chemical": "Use systemic fungicides like azoxystrobin.",
+      "prevention": "Avoid dense planting and keep water levels optimal."
+    },
+    "severe": {
+      "organic": "Remove affected panicles and improve air flow.",
+      "chemical": "Apply combination fungicides for control.",
+      "prevention": "Rotate crops and dry the field intermittently."
+    }
+  },
+  "rice___brown_spot": {
+    "mild": {
+      "organic": "Use compost tea and fish emulsion sprays.",
+      "chemical": "Spray mancozeb or chlorothalonil at early signs.",
+      "prevention": "Ensure balanced fertilization and good drainage."
+    },
+    "moderate": {
+      "organic": "Apply neem oil and micronutrient foliar sprays.",
+      "chemical": "Use systemic fungicides like propiconazole.",
+      "prevention": "Avoid sowing in previously infected fields."
+    },
+    "severe": {
+      "organic": "Remove infected leaves and use Trichoderma biofungicides.",
+      "chemical": "Aggressive fungicide program every 5–7 days.",
+      "prevention": "Soak seeds in fungicide solution before sowing."
+    }
+  },
+  "rice___healthy": {
+    "mild": {
+      "organic": "Use vermicompost and monitor water levels.",
+      "chemical": "No chemical inputs needed.",
+      "prevention": "Plant certified seeds and monitor regularly."
+    },
+    "moderate": {
+      "organic": "Apply natural foliar tonics like seaweed extract.",
+      "chemical": "Avoid unnecessary spraying.",
+      "prevention": "Keep field free from weeds and pests."
+    },
+    "severe": {
+      "organic": "Healthy rice needs no treatment.",
+      "chemical": "No action required.",
+      "prevention": "Maintain consistent agronomic practices."
+    }
+  },
+  "rice___leaf_blast": {
+    "mild": {
+      "organic": "Apply neem oil and compost tea to strengthen leaves.",
+      "chemical": "Use fungicide sprays like tricyclazole.",
+      "prevention": "Maintain proper plant spacing and balanced fertilization."
+    },
+    "moderate": {
+      "organic": "Apply garlic extract sprays and improve field aeration.",
+      "chemical": "Use propiconazole or carbendazim.",
+      "prevention": "Drain fields periodically and control humidity."
+    },
+    "severe": {
+      "organic": "Remove infected leaves and apply biofungicides.",
+      "chemical": "Follow aggressive fungicide rotation schedule.",
+      "prevention": "Soak seeds before planting and practice crop rotation."
+    }
+  },
+  "rice___neck_blast": {
+    "mild": {
+      "organic": "Spray neem oil before flowering stage.",
+      "chemical": "Apply tricyclazole at early panicle stage.",
+      "prevention": "Use resistant varieties and monitor panicle development."
+    },
+    "moderate": {
+      "organic": "Use compost-based foliar sprays to support growth.",
+      "chemical": "Systemic fungicides like azoxystrobin recommended.",
+      "prevention": "Maintain low nitrogen levels to avoid susceptibility."
+    },
+    "severe": {
+      "organic": "Remove infected plants and apply Trichoderma preparations.",
+      "chemical": "Apply fungicide in two split doses pre and post panicle emergence.",
+      "prevention": "Field sanitation and water management are key."
+    }
+  },
+  "roughbark": {
+    "mild": {
+      "organic": "Apply organic tree wound paste and mulch around base.",
+      "chemical": "Use protective fungicides only if fungal entry is detected.",
+      "prevention": "Avoid bark injuries and pests."
+    },
+    "moderate": {
+      "organic": "Trim damaged bark areas and apply neem-based balms.",
+      "chemical": "Treat with copper-based sprays if fungal infection suspected.",
+      "prevention": "Protect trunk base from mechanical damage and insects."
+    },
+    "severe": {
+      "organic": "Scrape dead bark and apply antifungal tree paint.",
+      "chemical": "Use systemic fungicide if disease progression observed.",
+      "prevention": "Apply barrier paste and monitor tree for borers."
+    }
+  },
+  "orange___haunglongbing_citrus_greening": {
+      "mild": {
+        "organic": "Apply neem oil and encourage beneficial insects.",
+        "chemical": "Use insecticides to control psyllid vectors (e.g., imidacloprid).",
+        "prevention": "Remove infected trees and plant disease-free saplings."
+      },
+      "moderate": {
+        "organic": "Apply foliar sprays of micronutrients to support tree health.",
+        "chemical": "Treat surrounding trees with systemic insecticides.",
+        "prevention": "Use certified nursery stock and control psyllid population."
+      },
+      "severe": {
+        "organic": "Remove and destroy infected trees to prevent spread.",
+        "chemical": "Aggressive insecticide treatment of entire orchard.",
+        "prevention": "Implement area-wide vector management programs."
+      }
+    },
+    "peach___bacterial_spot": {
+      "mild": {
+        "organic": "Apply copper-based fungicides early in the season.",
+        "chemical": "Use fixed copper sprays post-bloom.",
+        "prevention": "Ensure good air circulation and avoid overhead watering."
+      },
+      "moderate": {
+        "organic": "Increase copper spray frequency and prune affected areas.",
+        "chemical": "Use oxytetracycline bactericides in early season.",
+        "prevention": "Choose resistant varieties and sanitize tools."
+      },
+      "severe": {
+        "organic": "Remove heavily infected trees and use strong copper mixtures.",
+        "chemical": "Apply antibiotic sprays with care under expert guidance.",
+        "prevention": "Rotate planting and maintain strict orchard sanitation."
+      }
+    },
+    "peach___healthy": {
+      "mild": {
+        "organic": "Apply compost teas and monitor for early issues.",
+        "chemical": "No chemical action required.",
+        "prevention": "Regular pruning and sanitation."
+      },
+      "moderate": {
+        "organic": "Feed micronutrients to maintain tree vitality.",
+        "chemical": "Avoid unnecessary spraying.",
+        "prevention": "Use pest-free nursery plants and good agronomic practices."
+      },
+      "severe": {
+        "organic": "Healthy trees don't need curative treatment.",
+        "chemical": "Avoid chemical intervention in healthy trees.",
+        "prevention": "Maintain hygiene and remove potential host weeds."
+      }
+    },
+    "pepper,_bell___bacterial_spot": {
+      "mild": {
+        "organic": "Spray with compost tea or diluted vinegar solution.",
+        "chemical": "Use copper-based bactericides weekly.",
+        "prevention": "Avoid wetting leaves and rotate crops."
+      },
+      "moderate": {
+        "organic": "Increase frequency of copper + neem sprays.",
+        "chemical": "Use fixed copper and mancozeb combination.",
+        "prevention": "Plant resistant varieties and space plants adequately."
+      },
+      "severe": {
+        "organic": "Remove infected plants and increase soil organic matter.",
+        "chemical": "Apply strong bactericides at intervals under expert advice.",
+        "prevention": "Avoid reuse of contaminated soil and water."
+      }
+    },
+    "pepper,_bell___healthy": {
+      "mild": {
+        "organic": "No action needed; use compost or vermicompost.",
+        "chemical": "No chemical needed for healthy plants.",
+        "prevention": "Keep area weed-free and irrigate properly."
+      },
+      "moderate": {
+        "organic": "Supplement growth with liquid seaweed or fish emulsion.",
+        "chemical": "No pesticide use required.",
+        "prevention": "Use mulch and monitor for signs of stress."
+      },
+      "severe": {
+        "organic": "Healthy crop, no curative treatment required.",
+        "chemical": "No action needed.",
+        "prevention": "Ensure disease-free transplants and clean equipment."
+      }
+    },
+    "potato___early_blight": {
+      "mild": {
+        "organic": "Spray diluted neem oil weekly to reduce fungal spread.",
+        "chemical": "Use mancozeb or chlorothalonil as foliar spray.",
+        "prevention": "Use certified seed and maintain dry foliage."
+      },
+      "moderate": {
+        "organic": "Apply copper fungicides and mulch heavily.",
+        "chemical": "Spray systemic fungicides at weekly intervals.",
+        "prevention": "Destroy infected plants at season end."
+      },
+      "severe": {
+        "organic": "Remove entire infected plants and solarize soil.",
+        "chemical": "Apply fungicides with rotating modes of action.",
+        "prevention": "Use drip irrigation and maintain plant spacing."
+      }
+    },
+    "potato___healthy": {
+      "mild": {
+        "organic": "No treatment needed; continue compost applications.",
+        "chemical": "Avoid chemicals on healthy plants.",
+        "prevention": "Inspect regularly and maintain soil fertility."
+      },
+      "moderate": {
+        "organic": "Feed with compost tea or fish emulsion.",
+        "chemical": "No pesticide use needed unless signs appear.",
+        "prevention": "Monitor pest levels and avoid excess nitrogen."
+      },
+      "severe": {
+        "organic": "Healthy potato doesn't need curative treatment.",
+        "chemical": "Chemical use not recommended unless pest/disease signs occur.",
+        "prevention": "Use certified seed and rotate crops annually."
+      }
+    },
+    "potato___late_blight": {
+      "mild": {
+        "organic": "Spray diluted hydrogen peroxide or neem solution.",
+        "chemical": "Use protectant fungicides like mancozeb.",
+        "prevention": "Ensure proper spacing and avoid leaf wetting."
+      },
+      "moderate": {
+        "organic": "Apply copper hydroxide or organic sulfur-based sprays.",
+        "chemical": "Use systemic fungicides like metalaxyl-M.",
+        "prevention": "Remove and destroy affected leaves promptly."
+      },
+      "severe": {
+        "organic": "Remove infected plants and apply strong organic antifungals.",
+        "chemical": "Use full-strength fungicides every 5–7 days.",
+        "prevention": "Burn infected crop residues and monitor weather conditions."
+      }
+    },
+    "grape___healthy": {
+    "mild": {
+      "organic": "No treatment needed; continue compost and pruning.",
+      "chemical": "No chemicals required.",
+      "prevention": "Maintain good airflow and sanitation."
+    },
+    "moderate": {
+      "organic": "Enhance plant immunity with seaweed extracts.",
+      "chemical": "Avoid unnecessary sprays.",
+      "prevention": "Monitor for early disease signs regularly."
+    },
+    "severe": {
+      "organic": "Still healthy; no severe treatment needed.",
+      "chemical": "No chemical usage advised on healthy crops.",
+      "prevention": "Ensure consistent care and pest monitoring."
+    }
+  },
+  "grasshopper": {
+    "mild": {
+      "organic": "Use neem oil spray or garlic-chili extract.",
+      "chemical": "Apply malathion-based insecticide if needed.",
+      "prevention": "Use physical barriers or trap crops."
+    },
+    "moderate": {
+      "organic": "Release natural predators like birds or chickens.",
+      "chemical": "Use carbaryl or deltamethrin carefully.",
+      "prevention": "Keep surrounding vegetation trimmed."
+    },
+    "severe": {
+      "organic": "Apply neem cake to soil and repeat foliar sprays.",
+      "chemical": "Use systemic insecticides with expert advice.",
+      "prevention": "Conduct regular scouting and early intervention."
+    }
+  },
+  "gray_leaf_spot": {
+    "mild": {
+      "organic": "Apply baking soda or compost tea sprays.",
+      "chemical": "Use chlorothalonil or mancozeb early.",
+      "prevention": "Rotate crops and manage crop residue."
+    },
+    "moderate": {
+      "organic": "Spray with copper-based fungicides weekly.",
+      "chemical": "Apply systemic fungicide like azoxystrobin.",
+      "prevention": "Maintain crop spacing and soil health."
+    },
+    "severe": {
+      "organic": "Remove severely infected leaves and reapply treatments.",
+      "chemical": "Apply full-strength fungicide regimen every 7–10 days.",
+      "prevention": "Implement no-till practices and field sanitation."
+    }
+  },
+  "healthy_maize": {
+    "mild": {
+      "organic": "No treatment required; continue compost use.",
+      "chemical": "No chemical application needed.",
+      "prevention": "Monitor regularly and apply preventive care."
+    },
+    "moderate": {
+      "organic": "Foliar feed with micronutrients.",
+      "chemical": "Avoid unnecessary chemical use.",
+      "prevention": "Prevent disease buildup through rotation."
+    },
+    "severe": {
+      "organic": "Healthy maize requires no curative steps.",
+      "chemical": "Avoid spraying unless needed.",
+      "prevention": "Ensure continuous soil testing and balanced irrigation."
+    }
+  },
+  "mites": {
+    "mild": {
+      "organic": "Spray with neem oil or insecticidal soap.",
+      "chemical": "Use miticides like abamectin if necessary.",
+      "prevention": "Keep plants dust-free and avoid water stress."
+    },
+    "moderate": {
+      "organic": "Increase frequency of organic sprays.",
+      "chemical": "Apply acaricides such as spiromesifen.",
+      "prevention": "Introduce predatory mites like *Phytoseiulus persimilis*."
+    },
+    "severe": {
+      "organic": "Trim and destroy highly infested parts; apply strong organic oils.",
+      "chemical": "Use systemic acaricides at recommended intervals.",
+      "prevention": "Control weeds and maintain humidity balance."
+    }
+  },
+  "mosquito": {
+    "mild": {
+      "organic": "Use citronella or neem-based repellents in plantation.",
+      "chemical": "Apply larvicides like Bti in stagnant water near field.",
+      "prevention": "Drain all standing water sources in and around fields."
+    },
+    "moderate": {
+      "organic": "Introduce mosquito-repelling plants like lemongrass.",
+      "chemical": "Spray synthetic pyrethroids near breeding zones.",
+      "prevention": "Ensure proper drainage and no water stagnation."
+    },
+    "severe": {
+      "organic": "Apply natural oils around water bodies and use biological control.",
+      "chemical": "Intensive fogging or larvicide application near plantations.",
+      "prevention": "Regular inspection and sanitation of field margins."
+    }
+  },
+  "corn_maize___healthy": {
+      "mild": {
+        "organic": "No action needed; maintain organic soil health practices.",
+        "chemical": "No chemical treatment needed.",
+        "prevention": "Continue regular monitoring and balanced fertilization."
+      },
+      "moderate": {
+        "organic": "Monitor for early signs of disease or pests.",
+        "chemical": "No treatment required unless symptoms appear.",
+        "prevention": "Use crop rotation and clean equipment to prevent issues."
+      },
+      "severe": {
+        "organic": "Still healthy; reevaluate input levels if symptoms develop.",
+        "chemical": "Avoid unnecessary pesticide application.",
+        "prevention": "Ensure good irrigation and drainage practices."
+      }
+    },
+    "corn___common_rust": {
+      "mild": {
+        "organic": "Apply neem oil or garlic spray on infected leaves.",
+        "chemical": "Use fungicides like mancozeb for early-stage control.",
+        "prevention": "Plant rust-resistant corn varieties and ensure crop rotation."
+      },
+      "moderate": {
+        "organic": "Apply compost tea and trim affected areas.",
+        "chemical": "Use fungicides such as azoxystrobin or propiconazole.",
+        "prevention": "Avoid overhead irrigation and improve air circulation."
+      },
+      "severe": {
+        "organic": "Remove heavily infected plants if necessary.",
+        "chemical": "Apply systemic fungicides and repeat treatment after 7 days.",
+        "prevention": "Use certified disease-free seeds and proper field sanitation."
+      }
+    },
+    "corn___gray_leaf_spot": {
+      "mild": {
+        "organic": "Apply potassium bicarbonate or compost extract.",
+        "chemical": "Use preventive fungicides like chlorothalonil.",
+        "prevention": "Ensure proper residue management and crop spacing."
+      },
+      "moderate": {
+        "organic": "Spray with copper-based fungicides and improve airflow.",
+        "chemical": "Use systemic fungicides such as pyraclostrobin.",
+        "prevention": "Implement no-till or reduced-till practices."
+      },
+      "severe": {
+        "organic": "Remove lower infected leaves and compost responsibly.",
+        "chemical": "Aggressive fungicide treatment using strobulin class chemicals.",
+        "prevention": "Rotate crops and avoid monoculture planting."
+      }
+    },
+    "corn___healthy": {
+      "mild": {
+        "organic": "Maintain compost and mulching for soil enrichment.",
+        "chemical": "No chemical required for healthy crop.",
+        "prevention": "Monitor regularly and irrigate optimally."
+      },
+      "moderate": {
+        "organic": "Continue foliar organic feeding to boost immunity.",
+        "chemical": "No pesticides unless pests are noticed.",
+        "prevention": "Apply biofertilizers to maintain crop health."
+      },
+      "severe": {
+        "organic": "Still healthy; no action needed.",
+        "chemical": "Avoid overuse of chemicals; crop is healthy.",
+        "prevention": "Ensure continued protection with organic methods."
+      }
+    },
+    "corn___northern_leaf_blight": {
+      "mild": {
+        "organic": "Apply sulfur-based sprays or garlic oil.",
+        "chemical": "Use protective fungicides like mancozeb.",
+        "prevention": "Rotate crops and use disease-free seeds."
+      },
+      "moderate": {
+        "organic": "Prune infected leaves and spray compost tea.",
+        "chemical": "Apply fungicides like trifloxystrobin or propiconazole.",
+        "prevention": "Increase airflow and avoid overhead watering."
+      },
+      "severe": {
+        "organic": "Remove heavily damaged foliage; increase organic antifungal treatment.",
+        "chemical": "Use systemic fungicides aggressively with proper intervals.",
+        "prevention": "Avoid planting susceptible hybrids repeatedly."
+      }
+    },
+
+    "grape___black_rot": {
+      "mild": {
+        "organic": "Apply sulfur sprays and prune infected areas.",
+        "chemical": "Use myclobutanil or mancozeb for fungal control.",
+        "prevention": "Maintain proper vine spacing and ventilation."
+      },
+      "moderate": {
+        "organic": "Spray with copper-based solutions and compost tea.",
+        "chemical": "Apply systemic fungicides such as trifloxystrobin.",
+        "prevention": "Clean up fallen leaves and mummified fruits."
+      },
+      "severe": {
+        "organic": "Heavily prune affected vines and increase organic sprays.",
+        "chemical": "Use strong fungicides and repeat treatments regularly.",
+        "prevention": "Avoid overhead watering and keep canopy open."
+      }
+    },
+    "grape___esca_black_measles)": {
+      "mild": {
+        "organic": "Apply compost tea and prune symptomatic shoots.",
+        "chemical": "Use sodium arsenite cautiously where permitted.",
+        "prevention": "Ensure balanced fertilization and avoid wounding."
+      },
+      "moderate": {
+        "organic": "Trim canes and apply organic fungicides.",
+        "chemical": "Apply systemic fungicides like tebuconazole.",
+        "prevention": "Sanitize tools and avoid trunk injuries."
+      },
+      "severe": {
+        "organic": "Remove entire vine if disease spreads extensively.",
+        "chemical": "No curative chemical treatment; manage with pruning.",
+        "prevention": "Use certified planting material and prevent stress."
+      }
+    },
+    "grape___leaf_blight_(isariopsis_leaf_spot)": {
+      "mild": {
+        "organic": "Spray neem extract or potassium bicarbonate.",
+        "chemical": "Apply protective fungicides like mancozeb.",
+        "prevention": "Provide proper air circulation and avoid dense planting."
+      },
+      "moderate": {
+        "organic": "Repeat neem sprays and prune infected foliage.",
+        "chemical": "Use systemic fungicides such as thiophanate-methyl.",
+        "prevention": "Manage canopy and ensure field hygiene."
+      },
+      "severe": {
+        "organic": "Heavily prune and increase organic fungicidal sprays.",
+        "chemical": "Apply systemic fungicides at full recommended dosage.",
+        "prevention": "Implement strict pruning and residue management."
+      }
+    },
+   "beetle": {
+    "mild": {
+      "organic": "Introduce beneficial insects like ladybugs and neem oil spray.",
+      "chemical": "Use low-impact insecticides like spinosad.",
+      "prevention": "Remove beetles manually and avoid over-fertilizing."
+    },
+    "moderate": {
+      "organic": "Apply diatomaceous earth and neem extract regularly.",
+      "chemical": "Use pyrethroid-based insecticides for targeted control.",
+      "prevention": "Implement crop rotation and inspect plants weekly."
+    },
+    "severe": {
+      "organic": "Use pheromone traps and biological predators extensively.",
+      "chemical": "Apply carbaryl or bifenthrin to eliminate infestations.",
+      "prevention": "Plow under crop residue and remove weeds around crops."
+    }
+  },
+  "blueberry___healthy": {
+    "mild": {
+      "organic": "Maintain routine compost mulching and watering.",
+      "chemical": "Not required for healthy plants.",
+      "prevention": "Regularly inspect for early signs of disease or pests."
+    },
+    "moderate": {
+      "organic": "Add organic soil amendments to boost resilience.",
+      "chemical": "Apply micronutrient sprays if signs of stress appear.",
+      "prevention": "Ensure proper spacing and sunlight exposure."
+    },
+    "severe": {
+      "organic": "Revive soil health with organic conditioners.",
+      "chemical": "Check for hidden diseases or pests if symptoms arise.",
+      "prevention": "Apply preventive fungicides during wet seasons."
+    }
+  },
+  "bollworm": {
+    "mild": {
+      "organic": "Use neem oil and Bacillus thuringiensis sprays.",
+      "chemical": "Apply low-toxicity insecticides like spinetoram.",
+      "prevention": "Monitor plants and install pheromone traps early."
+    },
+    "moderate": {
+      "organic": "Introduce parasitoids like Trichogramma wasps.",
+      "chemical": "Use emamectin benzoate or chlorantraniliprole.",
+      "prevention": "Maintain field hygiene and remove egg masses."
+    },
+    "severe": {
+      "organic": "Combine biological control with manual removal.",
+      "chemical": "Apply strong systemic insecticides like indoxacarb.",
+      "prevention": "Avoid monocropping and rotate cotton with non-host crops."
+    }
+  },
+  "cherry_including_sour___powdery_mildew": {
+    "mild": {
+      "organic": "Spray with potassium bicarbonate or milk solution.",
+      "chemical": "Use sulfur-based fungicides.",
+      "prevention": "Prune for airflow and reduce humidity around trees."
+    },
+    "moderate": {
+      "organic": "Apply neem oil and compost tea alternately.",
+      "chemical": "Use myclobutanil or trifloxystrobin.",
+      "prevention": "Ensure trees are not over-fertilized."
+    },
+    "severe": {
+      "organic": "Cut back heavily affected areas and use organic sulfur.",
+      "chemical": "Apply systemic fungicides like tebuconazole.",
+      "prevention": "Spray preventively in early growing season."
+    }
+  },
+  "cherry_including_sour___healthy": {
+    "mild": {
+      "organic": "Continue mulching and watering schedules.",
+      "chemical": "No action required.",
+      "prevention": "Check for early mildew or pests."
+    },
+    "moderate": {
+      "organic": "Boost with seaweed extract or compost tea.",
+      "chemical": "Apply foliar nutrients if needed.",
+      "prevention": "Prune for shape and air circulation."
+    },
+    "severe": {
+      "organic": "Reassess for undetected diseases or pests.",
+      "chemical": "Conduct full soil test before applying chemicals.",
+      "prevention": "Spray preventive solutions seasonally."
+    }
+  },
+  "corn_common_rust": {
+    "mild": {
+      "organic": "Use baking soda or garlic extract sprays.",
+      "chemical": "Apply chlorothalonil-based fungicides.",
+      "prevention": "Avoid overhead irrigation."
+    },
+    "moderate": {
+      "organic": "Apply neem oil and increase airflow.",
+      "chemical": "Use mancozeb or azoxystrobin fungicides.",
+      "prevention": "Remove infected leaves and debris."
+    },
+    "severe": {
+      "organic": "Cut severely infected foliage and apply organic fungicides.",
+      "chemical": "Use systemic fungicides like propiconazole.",
+      "prevention": "Rotate crops and use resistant varieties."
+    }
+  },
+  "corn_maize___cercospora_leaf_spot_gray_leaf_spot": {
+    "mild": {
+      "organic": "Apply compost tea and foliar feeding.",
+      "chemical": "Use chlorothalonil or copper hydroxide.",
+      "prevention": "Avoid dense planting and manage irrigation."
+    },
+    "moderate": {
+      "organic": "Use neem or cinnamon oil sprays.",
+      "chemical": "Apply mancozeb or pyraclostrobin.",
+      "prevention": "Remove crop residue post-harvest."
+    },
+    "severe": {
+      "organic": "Cut infected leaves and apply bio-fungicides.",
+      "chemical": "Use systemic fungicides like trifloxystrobin.",
+      "prevention": "Practice crop rotation and tilling."
+    }
+  },
+  "corn_maize___common_rust_": {
+    "mild": {
+      "organic": "Spray with milk and baking soda solution.",
+      "chemical": "Use sulfur-based fungicides.",
+      "prevention": "Avoid prolonged leaf wetness."
+    },
+    "moderate": {
+      "organic": "Apply neem oil and maintain dryness.",
+      "chemical": "Use myclobutanil or chlorothalonil.",
+      "prevention": "Improve airflow and remove infected parts."
+    },
+    "severe": {
+      "organic": "Use systemic organic fungicides and pruning.",
+      "chemical": "Apply strong fungicides like azoxystrobin.",
+      "prevention": "Use disease-resistant corn hybrids."
+    }
+  },
+  "corn_maize___northern_leaf_blight": {
+    "mild": {
+      "organic": "Use compost-based foliar sprays.",
+      "chemical": "Apply copper fungicides or mancozeb.",
+      "prevention": "Keep leaves dry and reduce plant density."
+    },
+    "moderate": {
+      "organic": "Spray neem oil regularly.",
+      "chemical": "Use azoxystrobin or propiconazole.",
+      "prevention": "Use proper crop spacing and sanitation."
+    },
+    "severe": {
+      "organic": "Remove infected plants and apply organic fungicides.",
+      "chemical": "Apply systemic fungicides aggressively.",
+      "prevention": "Use resistant cultivars and rotate crops."
+    }
+  },
+"black_rot_on_apple": {
+      "mild": {
+        "organic": "Remove mummified fruits and prune infected branches.",
+        "chemical": "Apply captan or sulfur-based fungicides during early stages.",
+        "prevention": "Maintain orchard sanitation and avoid overhead watering."
+      },
+      "moderate": {
+        "organic": "Use copper-based fungicides and enhance pruning practices.",
+        "chemical": "Apply fungicides containing strobilurin as per guidelines.",
+        "prevention": "Implement crop rotation and monitor for early signs of infection."
+      },
+      "severe": {
+        "organic": "Intensify organic treatments and remove heavily infected trees.",
+        "chemical": "Employ a rigorous fungicide schedule with appropriate rotations.",
+        "prevention": "Adopt resistant apple varieties and maintain strict orchard hygiene."
+      }
+    },
+    "cedar_apple_rust": {
+      "mild": {
+        "organic": "Apply copper or sulfur-based fungicides before infection periods.",
+        "chemical": "Use fungicides containing myclobutanil during early growth stages.",
+        "prevention": "Remove nearby juniper hosts and plant resistant apple varieties."
+      },
+      "moderate": {
+        "organic": "Increase frequency of organic fungicide applications.",
+        "chemical": "Implement a fungicide program with appropriate timing and rotation.",
+        "prevention": "Prune trees to improve air circulation and reduce humidity."
+      },
+      "severe": {
+        "organic": "Combine multiple organic methods and remove severely infected trees.",
+        "chemical": "Apply systemic fungicides aggressively, following label instructions.",
+        "prevention": "Conduct regular monitoring and remove alternate host plants in the vicinity."
+      }
+    },
+    "armyworm": {
+      "mild": {
+        "organic": "Introduce natural predators like birds and apply neem oil sprays.",
+        "chemical": "Use Bacillus thuringiensis (Bt) formulations targeting early instar larvae.",
+        "prevention": "Implement crop rotation and remove weeds that serve as alternate hosts."
+      },
+      "moderate": {
+        "organic": "Apply biopesticides and enhance habitat for natural enemies.",
+        "chemical": "Use selective insecticides, ensuring proper timing and dosage.",
+        "prevention": "Monitor pest populations and employ pheromone traps."
+      },
+      "severe": {
+        "organic": "Combine biological controls with intensive organic treatments.",
+        "chemical": "Apply broad-spectrum insecticides with caution, following resistance management strategies.",
+        "prevention": "Implement integrated pest management practices and maintain field hygiene."
+      }
+    },
+  "aphids": {
+    "mild": {
+      "organic": "Spray plants with a strong jet of water to dislodge aphids.",
+      "chemical": "Apply insecticidal soaps or horticultural oils.",
+      "prevention": "Introduce natural predators like ladybugs and lacewings."
+    },
+    "moderate": {
+      "organic": "Use neem oil or garlic-based sprays to deter aphids.",
+      "chemical": "Apply systemic insecticides if infestation persists.",
+      "prevention": "Avoid over-fertilization and monitor nitrogen levels."
+    },
+    "severe": {
+      "organic": "Combine multiple organic methods and increase application frequency.",
+      "chemical": "Use stronger insecticides with caution, following label instructions.",
+      "prevention": "Implement reflective mulches and maintain plant health through proper nutrition."
+    }
+  },
+  "apple_black_rot": {
+      "mild": {
+        "organic": "Apply neem oil for Apple Black rot.",
+        "chemical": "Use safe fungicide for Apple Black rot.",
+        "prevention": "Maintain field hygiene to prevent Apple Black rot."
+      },
+      "moderate": {
+        "organic": "Increase organic control for Apple Black rot.",
+        "chemical": "Alternate fungicides for Apple Black rot.",
+        "prevention": "Improve drainage and spacing to reduce Apple Black rot."
+      },
+      "severe": {
+        "organic": "Remove severely affected parts with Apple Black rot.",
+        "chemical": "Apply systemic fungicides aggressively for Apple Black rot.",
+        "prevention": "Rotate crops and disinfect tools for Apple Black rot."
+      }
+    },
+    "apple_scab": {
+        "mild": {
+          "organic": "Apply sulfur or copper-based organic fungicides for Apple Scab.",
+          "chemical": "Use a systemic fungicide for Apple Scab.",
+          "prevention": "Improve air circulation and remove fallen leaves to prevent Apple Scab."
+        },
+        "moderate": {
+          "organic": "Increase frequency of organic fungicide applications for Apple Scab.",
+          "chemical": "Use a stronger fungicide treatment for Apple Scab.",
+          "prevention": "Ensure proper pruning and spacing to reduce humidity and Apple Scab."
+        },
+        "severe": {
+          "organic": "Remove infected leaves and apply a high-quality organic fungicide.",
+          "chemical": "Use systemic fungicides and repeat applications for severe control.",
+          "prevention": "Avoid overhead irrigation and use resistant varieties to prevent Apple Scab."
+        }
+      },
+      "bacterial_leaf_blight_in_rice": {
+        "mild": {
+          "organic": "Apply copper-based organic fungicides for Bacterial Leaf Blight.",
+          "chemical": "Use antibiotics like streptomycin for control.",
+          "prevention": "Maintain proper irrigation and avoid excessive nitrogen fertilization."
+        },
+        "moderate": {
+          "organic": "Increase copper-based treatments and improve soil drainage.",
+          "chemical": "Apply bactericides like kasugamycin and oxytetracycline.",
+          "prevention": "Use resistant rice varieties and practice crop rotation."
+        },
+        "severe": {
+          "organic": "Remove severely affected plant parts and treat with organic bactericides.",
+          "chemical": "Apply systemic antibiotics and remove infected plants immediately.",
+          "prevention": "Disinfect tools, rotate crops, and use disease-free seeds."
+        }
+      },
+      "grape_black_rot": {
+        "mild": {
+          "organic": "Use organic fungicides like neem oil for Black Rot on Grapes.",
+          "chemical": "Apply systemic fungicides like pyraclostrobin.",
+          "prevention": "Prune grapevines regularly and remove infected leaves."
+        },
+        "moderate": {
+          "organic": "Increase frequency of neem oil applications for Black Rot.",
+          "chemical": "Apply systemic fungicides and fungicide rotations.",
+          "prevention": "Ensure good air circulation and practice crop rotation."
+        },
+        "severe": {
+          "organic": "Remove infected clusters and apply organic fungicides to unaffected areas.",
+          "chemical": "Use aggressive systemic fungicides and dispose of infected grapes.",
+          "prevention": "Practice strict vineyard hygiene and remove infected debris."
+        }
+      },
+      "potato_early_blight": {
+        "mild": {
+          "organic": "Apply a mix of compost tea or neem oil for Potato Early Blight.",
+          "chemical": "Use chlorothalonil or mancozeb for control.",
+          "prevention": "Ensure proper spacing and avoid overhead irrigation."
+        },
+        "moderate": {
+          "organic": "Increase organic fungicide applications for Potato Early Blight.",
+          "chemical": "Use systemic fungicides like azoxystrobin for moderate control.",
+          "prevention": "Remove infected plant debris and rotate crops to reduce blight."
+        },
+        "severe": {
+          "organic": "Remove severely infected foliage and treat with strong organic fungicides.",
+          "chemical": "Use systemic fungicides aggressively and remove infected plants.",
+          "prevention": "Practice crop rotation and sanitation to minimize Early Blight."
+        }
+      },
+      "tomato_bacterial_spot": {
+        "mild": {
+          "organic": "Use organic bactericides like copper sulfate for Tomato Bacterial Spot.",
+          "chemical": "Apply copper-based or streptomycin-based bactericides.",
+          "prevention": "Practice proper irrigation techniques and remove infected leaves."
+        },
+        "moderate": {
+          "organic": "Increase application of organic bactericides and improve plant spacing.",
+          "chemical": "Apply stronger bactericides such as kasugamycin.",
+          "prevention": "Use resistant tomato varieties and sanitize tools regularly."
+        },
+        "severe": {
+          "organic": "Remove affected leaves immediately and apply high-quality organic treatments.",
+          "chemical": "Use systemic bactericides and remove heavily infected plants.",
+          "prevention": "Avoid overhead irrigation and disinfect all tools before use."
+        }
+      },
+      "apple_cedar_apple_rust": {
+        "mild": {
+          "organic": "Use neem oil to control Cedar Apple Rust.",
+          "chemical": "Apply fungicides like chlorothalonil or mancozeb.",
+          "prevention": "Prune affected leaves and improve airflow around the trees."
+        },
+        "moderate": {
+          "organic": "Increase application of neem oil and remove infected leaves.",
+          "chemical": "Use systemic fungicides like myclobutanil or trifloxystrobin.",
+          "prevention": "Improve orchard hygiene and avoid overhead irrigation."
+        },
+        "severe": {
+          "organic": "Remove severely infected parts and apply organic fungicides frequently.",
+          "chemical": "Use systemic fungicides aggressively and disinfect tools.",
+          "prevention": "Plant resistant varieties and ensure proper spacing for good air circulation."
+        }
+      },
+      "apple_healthy": {
+        "mild": {
+          "organic": "Maintain healthy soil with compost for healthy apple trees.",
+          "chemical": "Use balanced fertilizers to maintain healthy growth.",
+          "prevention": "Regularly prune and check for pests or diseases."
+        },
+        "moderate": {
+          "organic": "Increase organic soil amendments for apple tree health.",
+          "chemical": "Use micro-nutrient sprays for overall plant health.",
+          "prevention": "Ensure proper irrigation and mulching to support tree growth."
+        },
+        "severe": {
+          "organic": "Apply organic pesticides and fungicides to protect from disease.",
+          "chemical": "Use a preventive fungicide treatment for enhanced health.",
+          "prevention": "Maintain proper spacing and ensure a healthy environment for growth."
+        }
+      },
+      "blight_in_corn_leaf": {
+        "mild": {
+          "organic": "Use organic fungicides like neem oil or garlic spray.",
+          "chemical": "Apply fungicides like chlorothalonil or mancozeb.",
+          "prevention": "Remove affected leaves and practice crop rotation."
+        },
+        "moderate": {
+          "organic": "Increase application of organic fungicides.",
+          "chemical": "Apply systemic fungicides like azoxystrobin.",
+          "prevention": "Improve plant spacing and avoid excess nitrogen fertilization."
+        },
+        "severe": {
+          "organic": "Remove severely infected leaves and apply organic treatments frequently.",
+          "chemical": "Use aggressive fungicide treatments and remove infected plants.",
+          "prevention": "Practice crop rotation and ensure proper soil drainage."
+        }
+      },
+      "blueberry_healthy": {
+        "mild": {
+          "organic": "Ensure good soil health by using compost and organic fertilizers.",
+          "chemical": "Use balanced fertilizers for healthy growth.",
+          "prevention": "Maintain proper irrigation and spacing between plants."
+        },
+        "moderate": {
+          "organic": "Increase use of organic amendments for soil health.",
+          "chemical": "Use specific fertilizers designed for blueberries.",
+          "prevention": "Mulch around the base of plants to preserve moisture."
+        },
+        "severe": {
+          "organic": "Apply organic pesticides if pest problems are noticed.",
+          "chemical": "Use fungicides or insecticides when necessary.",
+          "prevention": "Use a proper irrigation system and ensure soil pH is optimal."
+        }
+      },
+      "brown_spot_in_rice_leaf": {
+        "mild": {
+          "organic": "Apply copper sulfate or neem oil for brown spot control in rice.",
+          "chemical": "Use chlorothalonil or mancozeb for disease control.",
+          "prevention": "Ensure proper field drainage and remove infected leaves."
+        },
+        "moderate": {
+          "organic": "Increase copper-based fungicide applications for better control.",
+          "chemical": "Apply systemic fungicides like azoxystrobin.",
+          "prevention": "Ensure proper spacing and rotation to reduce disease spread."
+        },
+        "severe": {
+          "organic": "Remove severely infected leaves and apply organic fungicides.",
+          "chemical": "Apply systemic fungicides aggressively for severe control.",
+          "prevention": "Practice crop rotation and sanitize tools regularly."
+        }
+      },
+      "cercospora_leaf_spot": {
+        "mild": {
+          "organic": "Use organic fungicides like neem oil for Cercospora Leaf Spot.",
+          "chemical": "Apply fungicides like mancozeb or copper-based products.",
+          "prevention": "Maintain proper plant spacing and remove infected leaves."
+        },
+        "moderate": {
+          "organic": "Increase organic fungicide applications.",
+          "chemical": "Use systemic fungicides like pyraclostrobin or thiophanate-methyl.",
+          "prevention": "Prune plants regularly and practice crop rotation."
+        },
+        "severe": {
+          "organic": "Remove severely infected parts and treat with high-quality organic fungicides.",
+          "chemical": "Apply systemic fungicides aggressively and remove infected plants.",
+          "prevention": "Ensure proper irrigation and field hygiene."
+        }
+      },
+      "cherry_powdery_mildew": {
+        "mild": {
+          "organic": "Apply sulfur-based organic fungicides for Powdery Mildew on Cherry.",
+          "chemical": "Use fungicides like myclobutanil or trifloxystrobin.",
+          "prevention": "Ensure proper pruning and air circulation around trees."
+        },
+        "moderate": {
+          "organic": "Increase application of sulfur-based fungicides for better control.",
+          "chemical": "Use systemic fungicides like tebuconazole or propiconazole.",
+          "prevention": "Regularly remove infected plant material and prune cherry trees."
+        },
+        "severe": {
+          "organic": "Remove infected leaves and apply organic fungicides more frequently.",
+          "chemical": "Use aggressive systemic fungicide treatments and remove heavily infected plants.",
+          "prevention": "Maintain proper spacing and avoid overhead irrigation."
+        }
+      },
+      "cherry_healthy": {
+        "mild": {
+          "organic": "Maintain healthy soil using compost and organic fertilizers for healthy cherry trees.",
+          "chemical": "Use balanced fertilizers to support healthy growth.",
+          "prevention": "Ensure proper pruning and check for pests regularly."
+        },
+        "moderate": {
+          "organic": "Increase organic amendments for soil health.",
+          "chemical": "Use fertilizers suited for cherry trees for better growth.",
+          "prevention": "Regularly monitor for pests and diseases."
+        },
+        "severe": {
+          "organic": "Apply organic fungicides or insecticides as needed.",
+          "chemical": "Use fungicides and insecticides when necessary to protect cherry health.",
+          "prevention": "Ensure proper spacing, irrigation, and soil health."
+        }
+      },
+      "common_rust_in_corn_leaf": {
+        "mild": {
+          "organic": "Apply neem oil or garlic extract for Common Rust in Corn Leaf.",
+          "chemical": "Use fungicides like chlorothalonil or mancozeb.",
+          "prevention": "Remove infected leaves and practice crop rotation."
+        },
+        "moderate": {
+          "organic": "Increase organic fungicide applications such as neem oil.",
+          "chemical": "Use systemic fungicides like azoxystrobin or propiconazole.",
+          "prevention": "Improve field drainage and ensure proper spacing between plants."
+        },
+        "severe": {
+          "organic": "Remove heavily infected leaves and apply organic fungicides more frequently.",
+          "chemical": "Use aggressive systemic fungicide treatments and remove infected plants.",
+          "prevention": "Rotate crops and sanitize farming tools regularly."
+        }
+      },
+    "corn_healthy": {
+     "mild": {
+      "organic": "Ensure healthy soil with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers for healthy growth of corn.",
+      "prevention": "Monitor for pests and diseases regularly."
+    },
+    "moderate": {
+      "organic": "Increase organic soil amendments to maintain healthy corn plants.",
+      "chemical": "Use fertilizers specifically for corn to enhance growth.",
+      "prevention": "Keep the corn plants well-irrigated and maintain good soil health."
+    },
+    "severe": {
+      "organic": "Apply organic treatments and fungicides to protect corn health.",
+      "chemical": "Use fungicides and insecticides to prevent disease and pests.",
+      "prevention": "Ensure proper irrigation and field management practices."
+    }
+  },
+  "garlic": {
+    "mild": {
+      "organic": "Apply neem oil or garlic-based solutions to protect from pests and diseases.",
+      "chemical": "Use fungicides like copper sulfate or mancozeb for fungal infections.",
+      "prevention": "Ensure proper spacing and maintain soil health."
+    },
+    "moderate": {
+      "organic": "Increase application of organic treatments for disease control.",
+      "chemical": "Use systemic fungicides like azoxystrobin to prevent further spread.",
+      "prevention": "Rotate crops and remove infected plant material."
+    },
+    "severe": {
+      "organic": "Remove infected leaves and apply organic fungicides regularly.",
+      "chemical": "Apply systemic fungicides aggressively and remove diseased plants.",
+      "prevention": "Practice crop rotation and sanitize tools after handling infected plants."
+    }
+  },
+  "grape_esca_black_measles": {
+    "mild": {
+      "organic": "Apply copper-based fungicides or neem oil to control Black Measles in Grapes.",
+      "chemical": "Use fungicides like mancozeb or captan.",
+      "prevention": "Improve airflow and remove infected leaves and vines."
+    },
+    "moderate": {
+      "organic": "Increase application of copper-based fungicides.",
+      "chemical": "Use systemic fungicides like thiophanate-methyl or myclobutanil.",
+      "prevention": "Maintain proper vine spacing and ensure good sunlight exposure."
+    },
+    "severe": {
+      "organic": "Remove heavily infected vines and leaves and apply fungicides frequently.",
+      "chemical": "Apply systemic fungicides aggressively to control the spread of the disease.",
+      "prevention": "Practice crop rotation and sanitize equipment to prevent reinfection."
+    }
+  },
+  "grape_leaf_blight_isariopsis_leaf_spot": {
+    "mild": {
+      "organic": "Apply neem oil or sulfur-based fungicides to control Leaf Blight in Grapes.",
+      "chemical": "Use copper-based fungicides to reduce leaf blight.",
+      "prevention": "Prune affected leaves and maintain proper vine spacing."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications.",
+      "chemical": "Use systemic fungicides like myclobutanil or azoxystrobin.",
+      "prevention": "Improve air circulation around the vines and remove infected plant material."
+    },
+    "severe": {
+      "organic": "Remove infected parts and apply organic fungicides frequently.",
+      "chemical": "Use aggressive systemic fungicides and remove severely infected plants.",
+      "prevention": "Practice crop rotation, use resistant grape varieties, and sanitize tools."
+    }
+  },
+  "grape_healthy": {
+    "mild": {
+      "organic": "Ensure healthy soil and proper irrigation for grapevines.",
+      "chemical": "Use balanced fertilizers to support the health of grapevines.",
+      "prevention": "Monitor for pests and diseases regularly to keep vines healthy."
+    },
+    "moderate": {
+      "organic": "Increase organic amendments like compost to maintain healthy grapevines.",
+      "chemical": "Use fertilizers designed specifically for grapes to enhance growth.",
+      "prevention": "Ensure proper spacing, pruning, and sunlight exposure for optimal growth."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides if pests or diseases appear.",
+      "chemical": "Use fungicides or insecticides as necessary to maintain grape health.",
+      "prevention": "Maintain proper irrigation, pruning, and regular monitoring."
+    }
+  },
+  "gray_leaf_spot_in_corn_leaf": {
+    "mild": {
+      "organic": "Use neem oil or garlic-based sprays to control Gray Leaf Spot in Corn.",
+      "chemical": "Apply fungicides like chlorothalonil or mancozeb.",
+      "prevention": "Remove infected leaves and improve field hygiene."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications.",
+      "chemical": "Use systemic fungicides like azoxystrobin or pyraclostrobin.",
+      "prevention": "Ensure proper spacing between plants and maintain good soil health."
+    },
+    "severe": {
+      "organic": "Remove severely infected leaves and apply organic fungicides more frequently.",
+      "chemical": "Use aggressive fungicide treatments and remove infected plants.",
+      "prevention": "Rotate crops and ensure proper field management."
+    }
+  },
+  "leaf_smut_in_rice_leaf": {
+    "mild": {
+      "organic": "Apply neem oil or sulfur-based fungicides to control Leaf Smut in Rice.",
+      "chemical": "Use systemic fungicides like triazoles or mancozeb.",
+      "prevention": "Remove infected leaves and practice crop rotation."
+    },
+    "moderate": {
+      "organic": "Increase frequency of organic fungicide applications.",
+      "chemical": "Apply fungicides like azoxystrobin or pyraclostrobin.",
+      "prevention": "Ensure proper spacing and good soil drainage."
+    },
+    "severe": {
+      "organic": "Remove infected leaves and apply organic fungicides regularly.",
+      "chemical": "Apply systemic fungicides aggressively and remove severely affected plants.",
+      "prevention": "Rotate crops and disinfect tools regularly."
+    }
+  },
+  "nitrogen_deficiency_in_plant": {
+    "mild": {
+      "organic": "Use organic compost or manure to increase nitrogen levels.",
+      "chemical": "Apply nitrogen-rich fertilizers like urea or ammonium nitrate.",
+      "prevention": "Ensure proper soil aeration and moisture levels."
+    },
+    "moderate": {
+      "organic": "Increase organic soil amendments like compost and green manure.",
+      "chemical": "Use slow-release nitrogen fertilizers for consistent feeding.",
+      "prevention": "Ensure soil pH levels are balanced and provide adequate drainage."
+    },
+    "severe": {
+      "organic": "Apply organic nitrogen sources like blood meal or alfalfa meal.",
+      "chemical": "Apply high nitrogen fertilizers to correct severe deficiencies.",
+      "prevention": "Perform regular soil tests to monitor nitrogen levels and prevent deficiencies."
+    }
+  },
+  "orange_haunglongbing_citrus_greening": {
+    "mild": {
+      "organic": "Use organic sprays such as neem oil to combat citrus greening.",
+      "chemical": "Apply systemic insecticides like imidacloprid to control disease vectors.",
+      "prevention": "Remove infected trees and ensure proper irrigation practices."
+    },
+    "moderate": {
+      "organic": "Increase application of organic sprays and neem oil.",
+      "chemical": "Use effective bactericides and insecticides to manage disease spread.",
+      "prevention": "Practice good field hygiene, and regularly check for symptoms."
+    },
+    "severe": {
+      "organic": "Remove and destroy infected plants to prevent further spread.",
+      "chemical": "Use systemic insecticides and bactericides aggressively.",
+      "prevention": "Sanitize tools and equipment and practice crop rotation to reduce reinfection."
+    }
+  },
+  "peach_healthy": {
+    "mild": {
+      "organic": "Maintain healthy soil with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers designed for peach trees.",
+      "prevention": "Monitor for pests and diseases regularly."
+    },
+    "moderate": {
+      "organic": "Increase organic soil amendments to ensure healthy growth.",
+      "chemical": "Use fertilizers designed for peaches for optimal growth.",
+      "prevention": "Ensure proper spacing and regular pruning to maintain tree health."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides and insecticides as needed to protect tree health.",
+      "chemical": "Use fungicides or insecticides if necessary to combat pests and diseases.",
+      "prevention": "Monitor regularly for pests and diseases, ensuring the best growing conditions."
+    }
+  },
+  "pepper_bell_bacterial_spot": {
+    "mild": {
+      "organic": "Apply copper-based fungicides or neem oil for bacterial spot control.",
+      "chemical": "Use bactericides like streptomycin or copper sulfate.",
+      "prevention": "Remove infected leaves and maintain proper spacing between plants."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic bactericide applications.",
+      "chemical": "Use stronger bactericides like oxytetracycline or copper-based solutions.",
+      "prevention": "Practice crop rotation and improve field hygiene."
+    },
+    "severe": {
+      "organic": "Remove heavily infected parts and apply organic treatments regularly.",
+      "chemical": "Use systemic bactericides to control severe infections.",
+      "prevention": "Rotate crops and disinfect tools and equipment frequently."
+    }
+  },
+  "pepper_bell_healthy": {
+    "mild": {
+      "organic": "Ensure healthy soil with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers suitable for bell peppers.",
+      "prevention": "Monitor for pests and diseases regularly."
+    },
+    "moderate": {
+      "organic": "Increase the use of organic amendments like compost and manure.",
+      "chemical": "Use fertilizers specifically formulated for peppers.",
+      "prevention": "Maintain optimal watering, sunlight, and air circulation."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides or insecticides if pests or diseases appear.",
+      "chemical": "Use chemical treatments as necessary to prevent disease spread.",
+      "prevention": "Ensure proper field management, crop rotation, and regular monitoring."
+    }
+  },
+  "potato_late_blight": {
+    "mild": {
+      "organic": "Apply copper-based fungicides or neem oil to control late blight.",
+      "chemical": "Use fungicides like chlorothalonil or mancozeb.",
+      "prevention": "Remove infected plants and practice crop rotation."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications and monitor plants regularly.",
+      "chemical": "Use systemic fungicides like mefenoxam or fluazinam.",
+      "prevention": "Ensure proper plant spacing and improve soil drainage."
+    },
+    "severe": {
+      "organic": "Remove severely infected parts and apply fungicides frequently.",
+      "chemical": "Use aggressive systemic fungicides and remove infected plants.",
+      "prevention": "Rotate crops and sanitize equipment to reduce reinfection."
+    }
+  },
+  "potato_healthy": {
+    "mild": {
+      "organic": "Ensure healthy soil and proper irrigation for potatoes.",
+      "chemical": "Use balanced fertilizers to promote healthy potato growth.",
+      "prevention": "Monitor regularly for pests and diseases to maintain healthy plants."
+    },
+    "moderate": {
+      "organic": "Increase soil amendments such as compost and manure for better growth.",
+      "chemical": "Use fertilizers designed for potatoes to maintain nutrient levels.",
+      "prevention": "Ensure optimal watering, spacing, and pest management."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides or insecticides to protect potato crops.",
+      "chemical": "Use chemical fungicides or insecticides to manage disease and pest pressure.",
+      "prevention": "Monitor crops regularly, and ensure proper irrigation and soil health."
+    }
+  },
+  "raspberry_healthy": {
+    "mild": {
+      "organic": "Ensure healthy soil with compost and organic amendments.",
+      "chemical": "Use balanced fertilizers to support raspberry growth.",
+      "prevention": "Monitor regularly for pests and diseases."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil and ensure good irrigation.",
+      "chemical": "Use fertilizers designed for berries for optimal growth.",
+      "prevention": "Ensure proper spacing and remove any diseased parts of the plant."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides and insecticides as needed.",
+      "chemical": "Use fungicides or insecticides to protect against pests and diseases.",
+      "prevention": "Practice regular monitoring, ensure proper irrigation, and rotate crops."
+    }
+  },
+  "sogatella_rice": {
+    "mild": {
+      "organic": "Use neem oil or garlic-based sprays to manage Sogatella in rice.",
+      "chemical": "Apply systemic insecticides like imidacloprid or chlorpyrifos.",
+      "prevention": "Maintain field hygiene and remove infected plants."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic insecticide applications.",
+      "chemical": "Use targeted insecticides like thiamethoxam or acetamiprid.",
+      "prevention": "Practice crop rotation and improve field sanitation."
+    },
+    "severe": {
+      "organic": "Remove heavily infected plants and increase application of organic treatments.",
+      "chemical": "Apply insecticides aggressively and remove severely affected plants.",
+      "prevention": "Rotate crops and sanitize tools and equipment regularly."
+    }
+  },"soybean_healthy": {
+    "mild": {
+      "organic": "Ensure healthy soil with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers designed for soybean growth.",
+      "prevention": "Monitor for pests and diseases regularly to maintain healthy plants."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil for better nutrient availability.",
+      "chemical": "Use fertilizers formulated for soybeans to promote healthy growth.",
+      "prevention": "Ensure optimal watering, spacing, and pest management."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides or insecticides to protect soybean crops.",
+      "chemical": "Use chemical fungicides or insecticides to manage disease and pest pressure.",
+      "prevention": "Monitor crops regularly and maintain proper soil health."
+    }
+  },
+  "strawberry_leaf_scorch": {
+    "mild": {
+      "organic": "Use organic fungicides such as neem oil to control leaf scorch.",
+      "chemical": "Apply fungicides like copper sulfate or chlorothalonil.",
+      "prevention": "Maintain proper watering practices and remove affected leaves."
+    },
+    "moderate": {
+      "organic": "Increase application of organic fungicides to protect strawberries.",
+      "chemical": "Use systemic fungicides like thiophanate-methyl or mancozeb.",
+      "prevention": "Ensure proper spacing, good drainage, and monitor for pests."
+    },
+    "severe": {
+      "organic": "Remove severely affected parts and apply organic fungicides regularly.",
+      "chemical": "Apply systemic fungicides aggressively to control leaf scorch.",
+      "prevention": "Rotate crops and sanitize tools to prevent reinfection."
+    }
+  },
+  "strawberry_healthy": {
+    "mild": {
+      "organic": "Maintain healthy soil with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers designed for strawberries.",
+      "prevention": "Monitor regularly for pests and diseases to keep plants healthy."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil and ensure proper irrigation.",
+      "chemical": "Use fertilizers specifically formulated for strawberry plants.",
+      "prevention": "Maintain good air circulation, remove diseased parts, and monitor regularly."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides and insecticides as needed.",
+      "chemical": "Use fungicides or insecticides to protect strawberry plants from diseases and pests.",
+      "prevention": "Ensure good field hygiene, crop rotation, and regular monitoring."
+    }
+  },
+  "tomato_early_blight": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil to control early blight.",
+      "chemical": "Use fungicides like chlorothalonil or copper-based fungicides.",
+      "prevention": "Remove affected leaves and practice crop rotation."
+    },
+    "moderate": {
+      "organic": "Increase frequency of organic fungicide applications.",
+      "chemical": "Use systemic fungicides like azoxystrobin or mefenoxam.",
+      "prevention": "Ensure proper spacing between plants and improve soil drainage."
+    },
+    "severe": {
+      "organic": "Remove severely affected parts and apply organic fungicides regularly.",
+      "chemical": "Use aggressive fungicides to control the spread of early blight.",
+      "prevention": "Rotate crops and sanitize tools to reduce reinfection."
+    }
+  },
+  "tomato_late_blight": {
+    "mild": {
+      "organic": "Apply copper-based fungicides or neem oil to manage late blight.",
+      "chemical": "Use fungicides like mancozeb or chlorothalonil.",
+      "prevention": "Remove infected plants and practice crop rotation."
+    },
+    "moderate": {
+      "organic": "Increase application of organic fungicides and monitor regularly.",
+      "chemical": "Apply systemic fungicides like mefenoxam or fluazinam.",
+      "prevention": "Improve field sanitation and ensure proper plant spacing."
+    },
+    "severe": {
+      "organic": "Remove heavily infected plants and apply organic fungicides frequently.",
+      "chemical": "Apply systemic fungicides aggressively and remove infected plants.",
+      "prevention": "Practice crop rotation and sanitize equipment regularly."
+    }
+  },
+  "tomato_leaf_mold": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil to control leaf mold.",
+      "chemical": "Use fungicides like chlorothalonil or copper sulfate.",
+      "prevention": "Ensure proper plant spacing and remove affected leaves."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications for better control.",
+      "chemical": "Use systemic fungicides like azoxystrobin or thiophanate-methyl.",
+      "prevention": "Improve field sanitation and reduce plant overcrowding."
+    },
+    "severe": {
+      "organic": "Remove heavily affected leaves and increase organic fungicide use.",
+      "chemical": "Use aggressive fungicide treatments and remove infected parts.",
+      "prevention": "Rotate crops and ensure proper field hygiene to avoid reinfection."
+    }
+  },
+  "tomato_septoria_leaf_spot": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based treatments.",
+      "chemical": "Use fungicides like chlorothalonil or copper-based products.",
+      "prevention": "Remove affected leaves and maintain proper spacing."
+    },
+    "moderate": {
+      "organic": "Increase application of organic fungicides to control the disease.",
+      "chemical": "Use systemic fungicides like mancozeb or propiconazole.",
+      "prevention": "Ensure good field hygiene and practice crop rotation."
+    },
+    "severe": {
+      "organic": "Remove infected parts regularly and apply organic fungicides frequently.",
+      "chemical": "Use systemic fungicides aggressively to control Septoria leaf spot.",
+      "prevention": "Rotate crops and sanitize tools to prevent reinfection."
+    }
+  },
+  "tomato_spider_mites_two_spotted_spider_mite": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil to control spider mites.",
+      "chemical": "Apply miticides like abamectin or spiromesifen.",
+      "prevention": "Ensure proper irrigation and remove affected parts."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic insecticide applications.",
+      "chemical": "Use stronger miticides like hexythiazox or etoxazole.",
+      "prevention": "Increase humidity around plants and remove infested leaves."
+    },
+    "severe": {
+      "organic": "Remove heavily affected plants and increase organic insecticide treatments.",
+      "chemical": "Apply miticides aggressively and remove infected plants.",
+      "prevention": "Rotate crops and maintain proper field hygiene."
+    }
+  },
+  "tomato_target_spot": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based treatments.",
+      "chemical": "Use fungicides like chlorothalonil or copper-based products.",
+      "prevention": "Remove affected leaves and maintain field hygiene."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications for better control.",
+      "chemical": "Use systemic fungicides like propiconazole or pyraclostrobin.",
+      "prevention": "Ensure good spacing and remove infected leaves regularly."
+    },
+    "severe": {
+      "organic": "Remove severely infected plants and apply organic fungicides frequently.",
+      "chemical": "Apply fungicides aggressively to control the spread of target spot.",
+      "prevention": "Rotate crops and sanitize tools to avoid reinfection."
+    }
+  },
+  "tomato_tomato_mosaic_virus": {
+    "mild": {
+      "organic": "Remove infected plants and apply organic treatments to reduce spread.",
+      "chemical": "Use virus-specific treatments or apply insecticides to reduce vector populations.",
+      "prevention": "Ensure good field hygiene and remove infected plants immediately."
+    },
+    "moderate": {
+      "organic": "Increase organic treatments and remove infected plants regularly.",
+      "chemical": "Use insecticides to control virus vectors like aphids.",
+      "prevention": "Rotate crops and practice regular monitoring for virus symptoms."
+    },
+    "severe": {
+      "organic": "Remove and destroy infected plants to prevent further spread of the virus.",
+      "chemical": "Apply insecticides aggressively to control virus vectors and reduce the spread.",
+      "prevention": "Monitor crops regularly and ensure proper sanitation of tools and equipment."
+    }
+  },
+  "tomato_healthy": {
+    "mild": {
+      "organic": "Ensure healthy soil with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers designed for tomato growth.",
+      "prevention": "Monitor for pests and diseases regularly to maintain healthy plants."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil for better nutrient availability.",
+      "chemical": "Use fertilizers formulated for tomatoes to promote healthy growth.",
+      "prevention": "Ensure optimal watering, spacing, and pest management."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides or insecticides to protect tomato crops.",
+      "chemical": "Use chemical fungicides or insecticides to manage disease and pest pressure.",
+      "prevention": "Monitor crops regularly and maintain proper soil health."
+    }
+  },
+  "waterlogging_in_plant": {
+    "mild": {
+      "organic": "Improve drainage around the plants and avoid overwatering.",
+      "chemical": "Use water-absorbing agents to help soil retain the necessary moisture.",
+      "prevention": "Ensure proper spacing and avoid planting in areas prone to waterlogging."
+    },
+    "moderate": {
+      "organic": "Increase soil aeration with compost or organic matter.",
+      "chemical": "Use soil amendments to improve water drainage.",
+      "prevention": "Select plant varieties that are more tolerant to wet conditions and improve drainage."
+    },
+    "severe": {
+      "organic": "Remove excess water immediately and increase soil aeration.",
+      "chemical": "Use drainage-enhancing chemicals or wetting agents to prevent waterlogging.",
+      "prevention": "Ensure that planting areas are well-drained and not prone to water retention."
+    }
+  },
+  "algal_leaf_in_tea": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil to control algal leaf disease.",
+      "chemical": "Use fungicides such as copper sulfate to manage the disease.",
+      "prevention": "Ensure good air circulation and remove affected leaves."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications to reduce algal growth.",
+      "chemical": "Use systemic fungicides like metalaxyl or propiconazole.",
+      "prevention": "Prune infected parts and ensure well-drained soil."
+    },
+    "severe": {
+      "organic": "Remove heavily infected leaves and apply organic fungicides regularly.",
+      "chemical": "Apply fungicides more aggressively to control the spread of algal leaf.",
+      "prevention": "Rotate crops and practice proper sanitation in the field."
+    }
+  },
+  "anthracnose_in_tea": {
+    "mild": {
+      "organic": "Apply neem oil or other organic fungicides to control anthracnose.",
+      "chemical": "Use fungicides such as chlorothalonil or copper-based treatments.",
+      "prevention": "Remove infected leaves and maintain good air circulation around plants."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications for better control.",
+      "chemical": "Use systemic fungicides like azoxystrobin or propiconazole.",
+      "prevention": "Ensure proper spacing and drainage to avoid excess moisture."
+    },
+    "severe": {
+      "organic": "Remove infected branches and apply organic fungicides frequently.",
+      "chemical": "Use aggressive systemic fungicides to manage anthracnose.",
+      "prevention": "Rotate crops and sanitize tools regularly to prevent reinfection."
+    }
+  },
+  "bird_eye_spot_in_tea": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based products.",
+      "chemical": "Use fungicides like copper oxychloride or mancozeb.",
+      "prevention": "Remove infected parts and ensure proper air circulation around plants."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide treatments to manage bird eye spot.",
+      "chemical": "Use fungicides like chlorothalonil or thiophanate-methyl.",
+      "prevention": "Ensure good field hygiene and avoid overcrowding of plants."
+    },
+    "severe": {
+      "organic": "Remove heavily infected leaves and apply organic fungicides regularly.",
+      "chemical": "Apply fungicides aggressively to control the disease.",
+      "prevention": "Practice crop rotation and sanitize tools to prevent reinfection."
+    }
+  },
+  "brown_blight_in_tea": {
+    "mild": {
+      "organic": "Use organic fungicides like neem oil or compost tea.",
+      "chemical": "Apply fungicides like copper sulfate or sulfur-based treatments.",
+      "prevention": "Ensure good plant spacing and remove infected leaves."
+    },
+    "moderate": {
+      "organic": "Increase application of organic fungicides to reduce blight spread.",
+      "chemical": "Use systemic fungicides like pyraclostrobin or azoxystrobin.",
+      "prevention": "Ensure proper drainage and avoid over-watering."
+    },
+    "severe": {
+      "organic": "Remove heavily infected parts and apply organic fungicides regularly.",
+      "chemical": "Use aggressive fungicide treatments to manage brown blight.",
+      "prevention": "Practice proper crop rotation and ensure field hygiene."
+    }
+  },
+  "cabbage_looper": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil or diatomaceous earth.",
+      "chemical": "Apply insecticides such as Bt (Bacillus thuringiensis).",
+      "prevention": "Remove affected leaves and monitor crops regularly for pests."
+    },
+    "moderate": {
+      "organic": "Increase organic insecticide applications to manage cabbage looper.",
+      "chemical": "Use chemical insecticides like spinosad or pyrethrin.",
+      "prevention": "Ensure proper spacing and regular pest monitoring."
+    },
+    "severe": {
+      "organic": "Remove infected plants and apply organic insecticides regularly.",
+      "chemical": "Apply chemical insecticides aggressively to control looper population.",
+      "prevention": "Ensure crop rotation and regular pest management."
+    }
+  },
+  "ginger": {
+    "mild": {
+      "organic": "Ensure healthy soil with compost and organic fertilizers.",
+      "chemical": "Use fertilizers designed for ginger growth.",
+      "prevention": "Ensure proper watering and remove any affected plants."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil and improve drainage.",
+      "chemical": "Use balanced fertilizers and monitor soil conditions regularly.",
+      "prevention": "Maintain good crop spacing and monitor for pests."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides and fungicides if necessary.",
+      "chemical": "Use chemical insecticides or fungicides to control pests or diseases.",
+      "prevention": "Practice proper field sanitation and crop rotation."
+    }
+  },
+  "healthy_tea_leaf": {
+    "mild": {
+      "organic": "Maintain soil health with compost and organic fertilizers.",
+      "chemical": "Use balanced fertilizers designed for tea cultivation.",
+      "prevention": "Monitor regularly for pests and diseases to maintain healthy plants."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil and ensure proper irrigation.",
+      "chemical": "Use specialized fertilizers designed for tea plants.",
+      "prevention": "Ensure good air circulation and remove infected leaves promptly."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides and insecticides as needed.",
+      "chemical": "Use fungicides or insecticides to protect tea plants from diseases and pests.",
+      "prevention": "Ensure proper field hygiene, crop rotation, and regular monitoring."
+    }
+  },
+  "lemon_canker": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based products.",
+      "chemical": "Use copper-based fungicides for effective control of lemon canker.",
+      "prevention": "Maintain good field hygiene and remove affected branches."
+    },
+    "moderate": {
+      "organic": "Increase applications of organic fungicides to control lemon canker.",
+      "chemical": "Use systemic fungicides like copper hydroxide for better results.",
+      "prevention": "Ensure proper spacing and avoid over-watering lemon plants."
+    },
+    "severe": {
+      "organic": "Prune and remove heavily infected branches, apply fungicides regularly.",
+      "chemical": "Apply systemic fungicides aggressively to prevent further spread.",
+      "prevention": "Rotate crops and practice good sanitation to prevent reinfection."
+    }
+  },
+  "onion": {
+    "mild": {
+      "organic": "Improve soil health with organic compost and mulch.",
+      "chemical": "Use balanced fertilizers designed for onions.",
+      "prevention": "Ensure proper watering and remove any infected leaves."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil for better growth.",
+      "chemical": "Use specialized onion fertilizers to support healthy growth.",
+      "prevention": "Ensure proper drainage and good air circulation around plants."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides or fungicides to manage pests and diseases.",
+      "chemical": "Use fungicides or insecticides to control severe infections.",
+      "prevention": "Practice crop rotation and sanitation to avoid future outbreaks."
+    }
+  },
+  "potassium_deficiency_in_plant": {
+    "mild": {
+      "organic": "Increase potassium levels with organic fertilizers like kelp meal.",
+      "chemical": "Use potassium-rich fertilizers to correct the deficiency.",
+      "prevention": "Regularly check soil levels and ensure proper fertilization."
+    },
+    "moderate": {
+      "organic": "Increase potassium application and improve soil health with compost.",
+      "chemical": "Use potassium sulfate or muriate of potash for better absorption.",
+      "prevention": "Monitor for symptoms and adjust fertilizer application accordingly."
+    },
+    "severe": {
+      "organic": "Apply organic fertilizers like wood ash to quickly correct potassium deficiency.",
+      "chemical": "Apply potassium nitrate or potassium chloride for fast results.",
+      "prevention": "Ensure balanced fertilization and check soil potassium levels regularly."
+    }
+  },
+  "potato_crop": {
+    "mild": {
+      "organic": "Ensure healthy soil with compost and organic fertilizers.",
+      "chemical": "Use fertilizers designed for potato crops.",
+      "prevention": "Maintain good soil health and remove any diseased plants."
+    },
+    "moderate": {
+      "organic": "Increase organic matter in the soil and improve drainage.",
+      "chemical": "Use specialized potato fertilizers to support healthy growth.",
+      "prevention": "Monitor for pests and diseases regularly to prevent outbreaks."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides and fungicides as needed for pest and disease control.",
+      "chemical": "Use systemic fungicides or insecticides to manage severe pest or disease outbreaks.",
+      "prevention": "Practice crop rotation and maintain good field sanitation."
+    }
+  },
+  "potato_hollow_heart": {
+    "mild": {
+      "organic": "Improve soil fertility with compost and organic matter.",
+      "chemical": "Use balanced fertilizers that provide calcium and phosphorus.",
+      "prevention": "Ensure even watering and avoid nutrient imbalances."
+    },
+    "moderate": {
+      "organic": "Increase calcium levels with organic amendments like lime or gypsum.",
+      "chemical": "Use fertilizers rich in calcium to prevent hollow heart in potatoes.",
+      "prevention": "Ensure proper irrigation practices and avoid stress during tuber formation."
+    },
+    "severe": {
+      "organic": "Apply calcium-rich organic fertilizers to reduce hollow heart.",
+      "chemical": "Use calcium nitrate fertilizers for better tuber development.",
+      "prevention": "Maintain uniform soil moisture and avoid over-fertilizing with nitrogen."
+    }
+  },
+  "red_leaf_spot_in_tea": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil to control red leaf spot.",
+      "chemical": "Use copper-based fungicides for better disease management.",
+      "prevention": "Ensure proper air circulation and remove affected leaves."
+    },
+    "moderate": {
+      "organic": "Increase applications of organic fungicides to reduce red leaf spot.",
+      "chemical": "Use systemic fungicides such as propiconazole or chlorothalonil.",
+      "prevention": "Ensure proper spacing and drainage to reduce humidity around plants."
+    },
+    "severe": {
+      "organic": "Remove heavily infected leaves and apply organic fungicides regularly.",
+      "chemical": "Apply fungicides aggressively to prevent further spread of red leaf spot.",
+      "prevention": "Practice crop rotation and maintain good field hygiene."
+    }
+  },
+  "tomato_canker": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based products.",
+      "chemical": "Use copper-based fungicides for effective control of tomato canker.",
+      "prevention": "Remove infected branches and ensure good air circulation."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications to control tomato canker.",
+      "chemical": "Use systemic fungicides like azoxystrobin or chlorothalonil.",
+      "prevention": "Ensure proper spacing and avoid over-watering tomato plants."
+    },
+    "severe": {
+      "organic": "Prune and remove heavily infected branches, apply fungicides regularly.",
+      "chemical": "Use systemic fungicides aggressively to prevent further spread.",
+      "prevention": "Practice crop rotation and ensure proper sanitation."
+    }
+  },
+  "brownspot": {
+    "mild": {
+      "organic": "Apply neem oil or other organic fungicides to control brownspot.",
+      "chemical": "Use fungicides like copper sulfate for better control.",
+      "prevention": "Ensure proper drainage and remove affected parts of the plant."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications to manage brownspot.",
+      "chemical": "Use systemic fungicides like thiophanate-methyl or chlorothalonil.",
+      "prevention": "Ensure good spacing and air circulation to reduce humidity around plants."
+    },
+    "severe": {
+      "organic": "Remove heavily infected parts and apply organic fungicides regularly.",
+      "chemical": "Use chemical fungicides aggressively to control brownspot.",
+      "prevention": "Rotate crops and practice good sanitation to avoid reinfection."
+    }
+  },
+  "bacterial_blight_in_rice": {
+    "mild": {
+      "organic": "Use organic bactericides like copper-based products to control blight.",
+      "chemical": "Apply systemic bactericides to control bacterial blight in rice.",
+      "prevention": "Ensure proper spacing and avoid over-watering rice plants."
+    },
+    "moderate": {
+      "organic": "Increase applications of organic bactericides to manage bacterial blight.",
+      "chemical": "Use antibiotics or copper fungicides to control bacterial infections.",
+      "prevention": "Practice crop rotation and maintain proper irrigation systems."
+    },
+    "severe": {
+      "organic": "Remove infected parts and apply organic bactericides frequently.",
+      "chemical": "Use aggressive chemical bactericides to manage bacterial blight in rice.",
+      "prevention": "Maintain good field hygiene and avoid excessive nitrogen application."
+    }
+  },
+  "red_cotton_bug": {
+    "mild": {
+      "organic": "Apply organic insecticides like neem oil to control red cotton bug.",
+      "chemical": "Use pyrethroids or systemic insecticides for effective control.",
+      "prevention": "Regularly monitor plants and remove infected parts."
+    },
+    "moderate": {
+      "organic": "Increase applications of organic insecticides for better control.",
+      "chemical": "Use insecticides like imidacloprid or bifenthrin for more severe infestations.",
+      "prevention": "Maintain good field hygiene and remove any debris where pests can breed."
+    },
+    "severe": {
+      "organic": "Remove heavily infested plants and apply organic insecticides regularly.",
+      "chemical": "Use aggressive chemical insecticides to eradicate red cotton bug.",
+      "prevention": "Practice crop rotation and use resistant cotton varieties."
+    }
+  },
+  "american_bollworm_on_cotton": {
+    "mild": {
+      "organic": "Apply neem oil or other organic insecticides to control American bollworm.",
+      "chemical": "Use insecticides like cypermethrin or endosulfan for effective control.",
+      "prevention": "Ensure proper field sanitation and remove infected cotton parts."
+    },
+    "moderate": {
+      "organic": "Increase frequency of organic insecticide application.",
+      "chemical": "Use pyrethroids or organophosphates to control the bollworm.",
+      "prevention": "Use pheromone traps and practice timely pest scouting."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides aggressively and remove heavily infected cotton parts.",
+      "chemical": "Use systemic insecticides or biopesticides for thorough control.",
+      "prevention": "Rotate crops and use Bollworm-resistant cotton varieties."
+    }
+  },
+  "cotton_whitefly": {
+    "mild": {
+      "organic": "Apply organic insecticides like neem oil to manage cotton whitefly.",
+      "chemical": "Use insecticides like imidacloprid or acephate for better control.",
+      "prevention": "Ensure proper field hygiene and check plants regularly."
+    },
+    "moderate": {
+      "organic": "Increase application of organic insecticides like pyrethrum.",
+      "chemical": "Use systemic insecticides for better absorption and control.",
+      "prevention": "Avoid waterlogging and use reflective mulches to deter whiteflies."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides regularly and remove heavily infested cotton parts.",
+      "chemical": "Use aggressive chemical insecticides to control severe whitefly infestation.",
+      "prevention": "Rotate crops and remove nearby host plants to reduce the whitefly population."
+    }
+  },
+  "army_worm": {
+    "mild": {
+      "organic": "Use natural predators like parasitic wasps to control army worm.",
+      "chemical": "Use insecticides like chlorpyrifos or carbaryl for control.",
+      "prevention": "Ensure good sanitation by removing any leftover plant material."
+    },
+    "moderate": {
+      "organic": "Increase use of biological insecticides like Bacillus thuringiensis.",
+      "chemical": "Apply chemical insecticides like methomyl or cypermethrin.",
+      "prevention": "Monitor fields regularly for signs of infestation and take quick action."
+    },
+    "severe": {
+      "organic": "Apply biological insecticides regularly and remove heavily infested plants.",
+      "chemical": "Use broad-spectrum insecticides to eradicate army worm infestation.",
+      "prevention": "Rotate crops and keep fields free from weeds that may serve as hosts."
+    }
+  },
+  "leaf_smut": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based products.",
+      "chemical": "Use systemic fungicides for better control of leaf smut.",
+      "prevention": "Ensure good air circulation and remove infected leaves."
+    },
+    "moderate": {
+      "organic": "Increase application of organic fungicides for better management.",
+      "chemical": "Use fungicides like tebuconazole or propiconazole to control leaf smut.",
+      "prevention": "Ensure proper irrigation practices and remove fallen leaves."
+    },
+    "severe": {
+      "organic": "Remove severely infected leaves and apply organic fungicides frequently.",
+      "chemical": "Use chemical fungicides aggressively to control severe infections.",
+      "prevention": "Practice crop rotation and maintain good field hygiene."
+    }
+  },
+  "cotton_aphid": {
+    "mild": {
+      "organic": "Use neem oil or insecticidal soap to control cotton aphids.",
+      "chemical": "Apply insecticides like imidacloprid or acephate for better control.",
+      "prevention": "Maintain proper plant spacing to improve air circulation."
+    },
+    "moderate": {
+      "organic": "Increase frequency of organic insecticide applications.",
+      "chemical": "Use systemic insecticides for long-lasting control of aphids.",
+      "prevention": "Monitor aphid populations regularly and treat as soon as they appear."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides regularly and remove heavily infested plants.",
+      "chemical": "Use aggressive chemical insecticides to control cotton aphid infestations.",
+      "prevention": "Ensure proper field hygiene and remove any nearby weeds."
+    }
+  },
+  "thrips_on_cotton": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil or pyrethrum to control thrips.",
+      "chemical": "Use insecticides like spinosad or abamectin for better control.",
+      "prevention": "Maintain good field sanitation and avoid over-fertilization."
+    },
+    "moderate": {
+      "organic": "Increase organic insecticide applications to control thrips effectively.",
+      "chemical": "Apply chemical insecticides like imidacloprid or bifenthrin.",
+      "prevention": "Monitor thrips populations regularly and treat early to prevent damage."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides regularly and remove heavily infested plants.",
+      "chemical": "Use aggressive insecticides to manage severe thrips infestations.",
+      "prevention": "Practice crop rotation and remove plant debris to prevent thrips."
+    }
+  },
+  "pink_bollworm_in_cotton": {
+    "mild": {
+      "organic": "Apply organic insecticides like neem oil or diatomaceous earth.",
+      "chemical": "Use insecticides like cypermethrin or endosulfan for effective control.",
+      "prevention": "Ensure proper field hygiene and remove infected cotton bolls."
+    },
+    "moderate": {
+      "organic": "Increase application of organic insecticides to manage pink bollworm.",
+      "chemical": "Use pyrethroids or systemic insecticides for better control.",
+      "prevention": "Monitor fields regularly and use pheromone traps to detect early infestations."
+    },
+    "severe": {
+      "organic": "Remove heavily infested cotton plants and apply organic insecticides regularly.",
+      "chemical": "Use aggressive chemical insecticides to control pink bollworm infestations.",
+      "prevention": "Practice crop rotation and use Bollworm-resistant cotton varieties."
+    }
+  },
+  "anthracnose_on_cotton": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based products.",
+      "chemical": "Use copper-based fungicides for effective control of anthracnose.",
+      "prevention": "Ensure good air circulation and remove infected cotton parts."
+    },
+    "moderate": {
+      "organic": "Increase applications of organic fungicides to manage anthracnose.",
+      "chemical": "Use systemic fungicides like tebuconazole or chlorothalonil.",
+      "prevention": "Ensure proper spacing and avoid over-watering cotton plants."
+    },
+    "severe": {
+      "organic": "Remove heavily infected cotton parts and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control anthracnose on cotton.",
+      "prevention": "Practice crop rotation and maintain good sanitation."
+    }
+  },
+  "bollworm_on_cotton": {
+    "mild": {
+      "organic": "Apply organic insecticides like neem oil or pyrethrum.",
+      "chemical": "Use pyrethroids or imidacloprid for effective bollworm control.",
+      "prevention": "Ensure proper field sanitation and monitor for early infestations."
+    },
+    "moderate": {
+      "organic": "Increase application of organic insecticides to control bollworm.",
+      "chemical": "Use systemic insecticides or biopesticides for better control.",
+      "prevention": "Use pheromone traps and maintain good field hygiene."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides regularly and remove heavily infested plants.",
+      "chemical": "Use aggressive chemical insecticides to manage severe bollworm infestations.",
+      "prevention": "Practice crop rotation and remove nearby host plants."
+    }
+  },
+  "bollrot_on_cotton": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil to manage bollrot.",
+      "chemical": "Use copper-based fungicides for effective bollrot control.",
+      "prevention": "Maintain proper irrigation practices and remove infected cotton bolls."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications to control bollrot.",
+      "chemical": "Use systemic fungicides like thiophanate-methyl or propiconazole.",
+      "prevention": "Ensure good field drainage and spacing to reduce moisture buildup."
+    },
+    "severe": {
+      "organic": "Remove infected cotton bolls and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe bollrot outbreaks.",
+      "prevention": "Practice crop rotation and ensure proper field sanitation."
+    }
+  },
+  "mosaic_sugarcane": {
+    "mild": {
+      "organic": "Apply neem oil or other organic insecticides to control sugarcane mosaic.",
+      "chemical": "Use systemic insecticides or fungicides to manage the mosaic disease.",
+      "prevention": "Ensure proper field sanitation and avoid excessive irrigation."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic insecticide applications.",
+      "chemical": "Apply systemic insecticides or fungicides like imidacloprid for better control.",
+      "prevention": "Use disease-resistant sugarcane varieties and rotate crops."
+    },
+    "severe": {
+      "organic": "Remove severely infected plants and apply organic insecticides regularly.",
+      "chemical": "Use aggressive chemical insecticides or fungicides for severe mosaic outbreaks.",
+      "prevention": "Practice crop rotation and ensure proper field hygiene to limit the spread."
+    }
+  },
+  "healthy_cotton": {
+    "mild": {
+      "organic": "Maintain regular maintenance practices like organic fertilization and pest monitoring.",
+      "chemical": "Use balanced fertilizers and monitor for pest infestation.",
+      "prevention": "Ensure adequate irrigation and regular pest management."
+    },
+    "moderate": {
+      "organic": "Continue organic farming practices and increase pest control measures if necessary.",
+      "chemical": "Apply fertilizers and insecticides if required, focusing on balanced nutrition.",
+      "prevention": "Ensure optimal field conditions and prevent waterlogging."
+    },
+    "severe": {
+      "organic": "Maintain good organic practices with pest control and field care.",
+      "chemical": "Fertilize cotton plants adequately and use insecticides when necessary for pest outbreaks.",
+      "prevention": "Maintain healthy field conditions and monitor for early signs of pests or diseases."
+    }
+  },
+  "wilt": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil to prevent fungal wilt infections.",
+      "chemical": "Use systemic fungicides like thiophanate-methyl for fungal wilt control.",
+      "prevention": "Ensure well-drained soil and remove infected plant debris."
+    },
+    "moderate": {
+      "organic": "Increase the use of organic fungicides and water control.",
+      "chemical": "Apply targeted fungicides for more severe wilting conditions.",
+      "prevention": "Rotate crops and improve field drainage to prevent waterlogging."
+    },
+    "severe": {
+      "organic": "Remove affected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides and improve soil drainage.",
+      "prevention": "Practice crop rotation and avoid planting the same crop in affected areas."
+    }
+  },
+  "leaf_curl": {
+    "mild": {
+      "organic": "Use insecticidal soap or neem oil for minor leaf curl issues.",
+      "chemical": "Apply pesticides such as acephate to control pest-related leaf curl.",
+      "prevention": "Maintain good plant spacing and ensure proper irrigation."
+    },
+    "moderate": {
+      "organic": "Increase frequency of organic treatments to control leaf curl.",
+      "chemical": "Use systemic insecticides or acaricides for control.",
+      "prevention": "Keep plants healthy through regular maintenance and check for pests."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides aggressively and prune heavily affected areas.",
+      "chemical": "Use strong systemic insecticides and pesticides for severe leaf curl outbreaks.",
+      "prevention": "Rotate crops and use disease-resistant plant varieties where possible."
+    }
+  },
+  "healthy_wheat": {
+    "mild": {
+      "organic": "Maintain healthy soil and practice organic pest management.",
+      "chemical": "Ensure optimal nitrogen and phosphorus levels for healthy wheat growth.",
+      "prevention": "Ensure proper irrigation and spacing for healthy wheat crops."
+    },
+    "moderate": {
+      "organic": "Continue organic practices and ensure pest management through natural predators.",
+      "chemical": "Apply balanced fertilizers to optimize wheat health and yield.",
+      "prevention": "Monitor for signs of pests and diseases, especially during the growing season."
+    },
+    "severe": {
+      "organic": "Apply organic fertilizers and pest control treatments regularly.",
+      "chemical": "Use balanced fertilizers and fungicides if necessary for disease management.",
+      "prevention": "Maintain proper field hygiene and rotate crops for optimal wheat health."
+    }
+  },
+  "flag_smut": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur-based treatments.",
+      "chemical": "Use chemical fungicides like triadimefon or propiconazole for flag smut control.",
+      "prevention": "Ensure good air circulation and avoid overwatering the wheat."
+    },
+    "moderate": {
+      "organic": "Increase the use of organic fungicides and remove infected plants.",
+      "chemical": "Apply chemical fungicides to control flag smut in wheat.",
+      "prevention": "Rotate crops and practice good field sanitation."
+    },
+    "severe": {
+      "organic": "Remove heavily infected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides for severe flag smut outbreaks.",
+      "prevention": "Practice crop rotation and maintain proper spacing for good air flow."
+    }
+  },
+  "wheat_stem_fly": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil to control stem fly.",
+      "chemical": "Apply insecticides like imidacloprid or malathion for better stem fly control.",
+      "prevention": "Monitor plants regularly for early signs of pest activity."
+    },
+    "moderate": {
+      "organic": "Increase application of organic insecticides for effective control.",
+      "chemical": "Use chemical insecticides like chlorpyrifos or deltamethrin for stem fly control.",
+      "prevention": "Ensure proper field hygiene and use resistant wheat varieties."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides aggressively and remove heavily infested plants.",
+      "chemical": "Use aggressive chemical insecticides to manage severe infestations of wheat stem fly.",
+      "prevention": "Practice crop rotation and remove volunteer plants that may harbor pests."
+    }
+  },
+  "wheat_powdery_mildew": {
+    "mild": {
+      "organic": "Apply organic fungicides like sulfur or neem oil for control.",
+      "chemical": "Use systemic fungicides like tebucanazole or propiconazole for powdery mildew.",
+      "prevention": "Ensure good air circulation and avoid overhead irrigation."
+    },
+    "moderate": {
+      "organic": "Increase application of organic fungicides for better control.",
+      "chemical": "Use chemical fungicides like azoxystrobin or fluopyram for control.",
+      "prevention": "Monitor plants for early signs of mildew and treat promptly."
+    },
+    "severe": {
+      "organic": "Apply organic fungicides regularly and remove infected parts of the plant.",
+      "chemical": "Use aggressive chemical fungicides for severe powdery mildew outbreaks.",
+      "prevention": "Practice crop rotation and use resistant wheat varieties."
+    }
+  },
+  "wheat_black_rust": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur for black rust control.",
+      "chemical": "Use systemic fungicides like tebuconazole or propiconazole for black rust.",
+      "prevention": "Maintain good field hygiene and avoid over-fertilizing."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications for better control.",
+      "chemical": "Apply chemical fungicides like chlorothalonil or azoxystrobin.",
+      "prevention": "Use resistant wheat varieties and rotate crops to reduce risk."
+    },
+    "severe": {
+      "organic": "Remove heavily infected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to manage severe black rust outbreaks.",
+      "prevention": "Practice crop rotation and maintain proper spacing for air circulation."
+    }
+  },
+  "wheat_aphid": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil to control wheat aphids.",
+      "chemical": "Apply insecticides like imidacloprid or malathion for wheat aphid control.",
+      "prevention": "Ensure good field hygiene and monitor plants for early aphid infestations."
+    },
+    "moderate": {
+      "organic": "Increase organic insecticide applications and remove affected plants.",
+      "chemical": "Apply systemic insecticides such as acetamiprid for better aphid control.",
+      "prevention": "Practice crop rotation and avoid planting susceptible wheat varieties."
+    },
+    "severe": {
+      "organic": "Remove heavily infested plants and apply organic insecticides regularly.",
+      "chemical": "Use aggressive chemical insecticides like pyrethroids or imidacloprid for severe aphid outbreaks.",
+      "prevention": "Ensure early detection and control of aphid populations to prevent spread."
+    }
+  },
+  "wheat_mite": {
+    "mild": {
+      "organic": "Use organic acaricides like neem oil or horticultural oils for mite control.",
+      "chemical": "Apply miticides like abamectin or bifenazate for mite management.",
+      "prevention": "Maintain proper field hygiene and ensure adequate irrigation."
+    },
+    "moderate": {
+      "organic": "Increase application of organic acaricides and remove affected plant parts.",
+      "chemical": "Apply systemic miticides for more effective control.",
+      "prevention": "Monitor for mite populations and take action as soon as they appear."
+    },
+    "severe": {
+      "organic": "Remove heavily infested plants and apply organic treatments regularly.",
+      "chemical": "Use strong miticides like fenpyroximate or etoxazole for severe mite infestations.",
+      "prevention": "Use resistant varieties and rotate crops to reduce mite populations."
+    }
+  },
+  "wheat_leaf_blight": {
+    "mild": {
+      "organic": "Apply organic fungicides like sulfur or neem oil for blight control.",
+      "chemical": "Use systemic fungicides such as azoxystrobin or triazoles for leaf blight.",
+      "prevention": "Ensure good air circulation and avoid overhead irrigation."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications for better control.",
+      "chemical": "Apply fungicides such as tebuconazole or prothioconazole for severe cases.",
+      "prevention": "Rotate crops and use resistant varieties to minimize blight risks."
+    },
+    "severe": {
+      "organic": "Remove affected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe leaf blight outbreaks.",
+      "prevention": "Improve field sanitation and reduce waterlogging to prevent leaf blight."
+    }
+  },
+  "maize_ear_rot": {
+    "mild": {
+      "organic": "Use organic fungicides like neem oil to prevent ear rot.",
+      "chemical": "Apply fungicides such as pyraclostrobin or tebuconazole for ear rot control.",
+      "prevention": "Ensure proper drainage and avoid excessive moisture around the ears."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications for ear rot control.",
+      "chemical": "Apply systemic fungicides like prothioconazole or flutriafol for better control.",
+      "prevention": "Use resistant maize varieties and monitor for early signs of ear rot."
+    },
+    "severe": {
+      "organic": "Remove heavily infected ears and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe ear rot outbreaks.",
+      "prevention": "Maintain optimal field conditions and harvest promptly to avoid contamination."
+    }
+  },
+  "maize_fall_armyworm": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil or diatomaceous earth for fall armyworm control.",
+      "chemical": "Apply insecticides such as chlorpyrifos or indoxacarb to control fall armyworms.",
+      "prevention": "Monitor for early signs of infestation and remove affected plants."
+    },
+    "moderate": {
+      "organic": "Increase organic insecticide applications and remove affected plant parts.",
+      "chemical": "Use systemic insecticides such as spinosad or methomyl for control.",
+      "prevention": "Use pheromone traps and monitor for early armyworm populations."
+    },
+    "severe": {
+      "organic": "Apply organic insecticides regularly and remove heavily affected plants.",
+      "chemical": "Use aggressive chemical insecticides like lambda-cyhalothrin for severe infestations.",
+      "prevention": "Practice crop rotation and use resistant maize varieties."
+    }
+  },
+  "maize_stem_borer": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil or pyrethrin for stem borer control.",
+      "chemical": "Apply insecticides like chlorpyrifos or endosulfan for maize stem borer control.",
+      "prevention": "Ensure proper field hygiene and monitor for early signs of infestation."
+    },
+    "moderate": {
+      "organic": "Increase organic insecticide applications and remove affected plants.",
+      "chemical": "Use systemic insecticides such as lambda-cyhalothrin or emamectin benzoate.",
+      "prevention": "Practice early planting and crop rotation to reduce borer infestations."
+    },
+    "severe": {
+      "organic": "Remove severely infested plants and apply organic insecticides regularly.",
+      "chemical": "Use strong insecticides like cypermethrin or fipronil for severe infestations.",
+      "prevention": "Maintain proper field hygiene and use resistant maize varieties."
+    }
+  },
+  "wheat_scab": {
+    "mild": {
+      "organic": "Apply organic fungicides like sulfur or neem oil for wheat scab control.",
+      "chemical": "Use fungicides like tebuconazole or prothioconazole to control wheat scab.",
+      "prevention": "Ensure good air circulation and avoid overhead irrigation."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications for better scab control.",
+      "chemical": "Apply systemic fungicides like metconazole or flusilazole for wheat scab.",
+      "prevention": "Practice crop rotation and use resistant wheat varieties to reduce scab risk."
+    },
+    "severe": {
+      "organic": "Remove infected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe wheat scab outbreaks.",
+      "prevention": "Practice early planting and ensure proper field sanitation."
+    }
+  },
+  "cotton_mealy_bug": {
+    "mild": {
+      "organic": "Use organic insecticides like neem oil or insecticidal soap for mealy bug control.",
+      "chemical": "Apply insecticides such as imidacloprid or malathion for mealy bug control.",
+      "prevention": "Ensure good field hygiene and check plants regularly for mealy bug infestation."
+    },
+    "moderate": {
+      "organic": "Increase organic insecticide applications and remove affected plant parts.",
+      "chemical": "Use systemic insecticides such as acephate or buprofezin for better control.",
+      "prevention": "Use resistant cotton varieties and practice proper crop rotation."
+    },
+    "severe": {
+      "organic": "Remove severely affected plants and apply organic insecticides regularly.",
+      "chemical": "Use aggressive chemical insecticides for severe mealy bug outbreaks.",
+      "prevention": "Ensure proper field sanitation and avoid overwatering."
+    }
+  },
+  "wheat_yellow_rust": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur for yellow rust control.",
+      "chemical": "Use fungicides such as triazoles or strobilurins for yellow rust control.",
+      "prevention": "Ensure good air circulation and avoid over-fertilizing wheat."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications for better control.",
+      "chemical": "Apply systemic fungicides like azoxystrobin or tebuconazole for effective control.",
+      "prevention": "Use resistant wheat varieties and practice crop rotation."
+    },
+    "severe": {
+      "organic": "Remove infected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe yellow rust outbreaks.",
+      "prevention": "Maintain proper field hygiene and avoid excessive nitrogen fertilization."
+    }
+  },
+  "wheat_brown_leaf_rust": {
+    "mild": {
+      "organic": "Apply organic fungicides like neem oil or sulfur for brown leaf rust control.",
+      "chemical": "Use systemic fungicides like propiconazole or tebuconazole for rust control.",
+      "prevention": "Ensure proper air circulation and avoid over-watering the crop."
+    },
+    "moderate": {
+      "organic": "Increase organic fungicide applications and remove infected leaves.",
+      "chemical": "Apply fungicides like chlorothalonil or azoxystrobin for better rust control.",
+      "prevention": "Rotate crops and use resistant wheat varieties to minimize rust risks."
+    },
+    "severe": {
+      "organic": "Remove heavily infected plants and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe brown leaf rust outbreaks.",
+      "prevention": "Practice good field sanitation and avoid high humidity in the field."
+    }
+  },
+  "red_rust_sugarcane": {
+    "mild": {
+      "organic": "Apply organic fungicides like sulfur or neem oil for red rust control.",
+      "chemical": "Use fungicides such as propiconazole or tebuconazole to control red rust.",
+      "prevention": "Maintain good field sanitation and avoid overhead irrigation."
+    },
+    "moderate": {
+      "organic": "Increase the frequency of organic fungicide applications for red rust control.",
+      "chemical": "Apply systemic fungicides like flutriafol or hexaconazole for better control.",
+      "prevention": "Rotate crops and use resistant sugarcane varieties."
+    },
+    "severe": {
+      "organic": "Remove infected sugarcane and apply organic fungicides regularly.",
+      "chemical": "Use aggressive chemical fungicides to control severe red rust outbreaks.",
+      "prevention": "Practice crop rotation and improve field drainage to prevent rust spread."
+    }
+  }
+}
+  

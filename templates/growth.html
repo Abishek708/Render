@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plant Growth Tracking</title>
+    <link rel="stylesheet" href="static\css\style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('static/css/CTA-bg.jpeg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        
+        .container h2{
+            color: #2f5d3e;
+        }
+        
+        .container form {
+            margin-bottom: 30px;
+        }
+        
+        .file-input {
+            padding: 8px;
+            color: white;
+        }
+        .submit-container {
+            padding: 8px 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        .submit-btn:hover {
+            background-color: #45a049;
+        }
+        
+        .growth-table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
+            margin-top: 20px;
+        }
+        
+        .growth-table th, .growth-table td {
+            padding: 12px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .growth-table th {
+            background-color: #81c784;
+            color: white;
+        }
+        
+        .growth-table tr:hover {
+            background-color: #f1f1f1;
+        }
+        
+        #growth-observation {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f5e9;
+            border-left: 5px solid #66bb6a;
+            font-weight: bold;
+        }
+        
+        .clear-btn {
+            padding: 8px 16px;
+            background-color: #f44336;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-left: 10px;
+        }
+        
+        .clear-btn:hover {
+            background-color: #d32f2f;
+        }
+    </style>
+</head>
+<body>
+    <div class='container'>
+    <h2>Upload Plant Image for Growth Tracking</h2>
+    <form action="/growth.html" method="post" enctype="multipart/form-data">
+        <input type="file" name="imagefile" class="file-input" required >
+        <input type="submit" value="Upload" class="submit-btn">
+        <a href="/clear-growth" class="clear-btn">Clear</a>
+    </form>
+
+    <h3>Growth Over Time</h3>
+    <table class="growth-table">
+
+        <tr>
+            <th>Timestamp</th>
+            <th>Estimated Green Area (px)</th>
+            <th>Growth Rate (%)</th>
+            <th>Growth Stage</th>
+            <th>observation</th>
+        </tr>
+        {% for entry in growth_data %}
+        <tr>
+            <td>{{ entry.time }}</td>
+            <td>{{ entry.area }}</td>
+            <td>{{ entry.growth_rate }}</td>
+            <td>{{ entry.stage }}</td>
+            <td>{{entry.observation}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+</div>
+
+</body>
+</html>

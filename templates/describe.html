@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Disease Diagnosis Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('static/css/CTA-bg.jpeg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            color: #333;
+          }
+      
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 12px;
+            max-width: 800px;
+            margin: auto;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .info {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .stage {
+            font-size: 20px;
+            font-weight: bold;
+            color: #e67e22;
+        }
+        ul {
+            line-height: 1.8;
+            font-size: 17px;
+            margin-top: 10px;
+        }
+        .note {
+            font-size: 14px;
+            color: gray;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌿 Disease Diagnosis Report</h1>
+        
+        <div class="info">
+            <strong>Disease Detected:</strong> {{ diseases|title }} <br>
+            <strong>Model Confidence:</strong> {{ confidence }}% <br>
+            <span class="stage">Detected Stage: {{ stage }}</span>
+        </div>
+
+        <h2>🧪 Recommended Cure ({{ stage }})</h2>
+        <ul>
+            {% if cures.items %}
+              {% for key, item in cures.items() %}
+                <li><strong>{{ key.title() }}:</strong> {{ item }}</li>
+              {% endfor %}
+            {% else %}
+              {% for item in cures %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            {% endif %}
+          </ul>
+          <button onclick="translateDiagnosis()">🌐 Translate to Tamil</button>
+            <hr>
+            <div id="tamil-output" style="display:none;">
+                <h3>மருத்துவ அறிக்கை (தமிழ்)</h3>
+                <h4>நோய்: <span id="disease-ta"></span></h4>
+                <h4>அடிக்கட்டு: <span id="stage-ta"></span></h4>
+                <div id="cures-ta"></div>
+            </div>
+            <script>
+                function translateDiagnosis() {
+                    fetch("/translate_diagnosis", {
+                        method: "POST",
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            disease: "{{ diseases }}",
+                            stage: "{{ stage }}",
+                            cures: {{ cures|tojson|safe }}
+                        })
+                    })
+                    .then(res => res.json())
+                    .then(data => {
+                        document.getElementById("disease-ta").innerText = data.disease_ta;
+                        document.getElementById("stage-ta").innerText = data.stage_ta;
+                
+                        let curesHTML = '';
+                        for (const [category, items] of Object.entries(data.cures_ta)) {
+                            curesHTML += `<strong>${category}:</strong><ul>`;
+                        
+                            if (Array.isArray(items)) {
+                                for (const item of items) {
+                                    curesHTML += `<li>${item}</li>`;
+                                }
+                            } else {
+                                curesHTML += `<li>${items}</li>`;  // fallback if it's a string
+                            }
+                        
+                            curesHTML += '</ul>';
+                        }
+                        
+                        document.getElementById("cures-ta").innerHTML = curesHTML;
+                        document.getElementById("tamil-output").style.display = 'block';
+                    });
+                }
+                </script>
+          </div>
+</body>
+</html>
