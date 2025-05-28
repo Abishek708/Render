@@ -55,7 +55,7 @@ def translate_to_tamil(text):
 import os
 
 model_path = "model.h5"
-file_id = "1hqk1BZACH7PCM1IgwZrDqpXz"
+file_id = "1hqk1BZACH7PCM1IgwZrDqpXz-XQieV_R"
 url = f"https://drive.google.com/uc?id={file_id}"
 
 if not os.path.exists(model_path):
